@@ -1,9 +1,9 @@
 {
   "name": "Helping Hands Town Client",
   "author": "YaJn",
-  "version": "3.0",
-  "description": "gitee 服务器自动更新",
-  "fileApi": "https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/raw/master",
+  "version": "0.3",
+  "description": "GitHub 更新源",
+  "fileApi": "https://raw.githubusercontent.com/YanJun5028/Helping-Hands-Town-Mod-Park/master",
   "files": [
     {
       "path": "config/appleskin.json5",
@@ -63,7 +63,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "5be55e97d75a68f72cd9a33db45caa2307aaac4b"
+      "hash": "4b5de10dd465c91fead0a339e21da5df695ad113"
     },
     {
       "path": "config/fast-chest.properties",
@@ -83,7 +83,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "c826be7dfd55b01285ce4fbdff6844a814a5653f"
+      "hash": "d3dc6bb8d6b28dd5515b55fa296ba1e468d80823"
     },
     {
       "path": "config/inventoryhud.json",
@@ -95,7 +95,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "5318bd8272372ca4926406ae4a164a4f0b7b7819"
+      "hash": "eec2b9572087b38e7d31170f08abf86992449386"
     },
     {
       "path": "config/itemscroller.json",
@@ -127,7 +127,7 @@
     },
     {
       "path": "config/litematica/litematica_main.helphand.world_dim_minecraft_overworld.json",
-      "hash": "a6b46521a7e160e82afbf0c0fc2d9c404266ca5c"
+      "hash": "3b50f2c8c56a1ad654246817701ae3ba66ea35d4"
     },
     {
       "path": "config/litematica/litematica_main.helphand.world_dim_minecraft_the_nether.json",
@@ -219,7 +219,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "3cd820965de12ea883952909db0821017fb4de63"
+      "hash": "603eea44296239a68adc423feb5b571c47e2ef27"
     },
     {
       "path": "config/rrp.properties",
@@ -267,11 +267,11 @@
     },
     {
       "path": "config/tweakermore.json",
-      "hash": "ff0b61e83cc7c9058cc862e0966d969e176f4db4"
+      "hash": "1cbf05a6e94d12fc319b9d944cc7b4456274b3b6"
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "cf1c30e6e85f177b9b993360a8ffb6d5b8a55400"
+      "hash": "29035543318a0f7b14175ba2a04022158174af69"
     },
     {
       "path": "config/tweakmyclient.json",
@@ -551,7 +551,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "d59b8a4d54f6ace865189d822beb61ecc4724839"
+      "hash": "a8c5187f925d2d45fbb1a05f3df89c59e0668c79"
     },
     {
       "path": "resourcepacks/Wild+Joker+redstone+display+1.14.x.zip",
@@ -580,6 +580,10 @@
     {
       "path": "resourcepacks/XeKrSquarePattern+方纹+v2.1.zip",
       "hash": "23668eed5ddcef22ff79283cb095c39ccb3fd3f6"
+    },
+    {
+      "path": "resourcepacks/XianBeiLanguageV1.14.514.zip",
+      "hash": "ad3f3e2012251024484b8d27edf263b56edd2ee2"
     },
     {
       "path": "resourcepacks/[1.17]Xaeros世界地图\u0026amp;小地图汉化210826.zip",
