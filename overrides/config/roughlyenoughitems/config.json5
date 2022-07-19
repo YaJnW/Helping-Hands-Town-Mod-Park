@@ -8,7 +8,7 @@
 		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.r",
+				"keyCode": "key.keyboard.t",
 				"modifier": 0
 			},
 			"usageKeybind": {
