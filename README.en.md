@@ -1,5 +1,5 @@
 # Helping Hands Town Mod Park
-[中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/master/README.md) / English
+[中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / English
 
 #### Description
 A Minecraft mob pack for Helping Hands Town member
