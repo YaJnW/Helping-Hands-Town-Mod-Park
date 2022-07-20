@@ -17,6 +17,8 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 经过测试 以下启动器可以使用该整合包
 
 HMCL
+PCL
+BakaXL
 
 #### 使用说明
 
