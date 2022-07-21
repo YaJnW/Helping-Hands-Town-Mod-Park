@@ -15,8 +15,11 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 #### 可用的
 
 #可以导入
+
 HMCL
+
 PCL
+
 BakaXL
 
 #可以自动更新
@@ -26,10 +29,15 @@ HMCL
 #### 使用说明
 
 1. 下载源代码
+
 2. 将"overrides"文件夹及"server-manifest"打包
+
 3. 将打包后的压缩文件夹作为整合包导入至你的Minecraft启动器中
+
 4. 在选择版本界面中选择"Helping Hands Town Client"
+
 5. 启动游戏
+
 6. enjoy
 
 #### 参与贡献
