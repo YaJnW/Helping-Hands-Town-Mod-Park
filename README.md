@@ -1,8 +1,8 @@
 
 # Helping Hands Town 服务器整合包
 ### 语言选择 /  Language selection 
-GitHub : [中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / [English](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.en.md)  
-Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/README.md) / [English](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/README.en.md)
+GitHub : [中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / [English](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/.doc/readme/en.md)  
+Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/README.md) / [English](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/.doc/readme/en.md)
 
 # 介绍
 一个给Helping Hands Town服务器用户的Minecraft整合包  
@@ -65,7 +65,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 | kp0 | 飞行预设4 | 推客入 | 速度0.32 |
 
 # 反馈问题
-> Troubleshooting any problem without the error log is like driving without eyes closed.
+> Troubleshooting any problem without the error log is like driving without eyes closed.  
 > 在没有错误日志的情况下诊断任何问题无异于闭眼开车
 > 
 > -- Apache 官方文档 Getting Started   
@@ -107,8 +107,8 @@ xqysp 寻找bug
 
 
 # 更新日志
-你可以前往[.ClientLog](/.ClientLog)查看启动日志  
-查看mod列表? 请前往[mods](/mods.md)
+你可以前往[.ClientLog](/.doc/ClientLog)查看启动日志  
+查看mod列表? 请前往[mods](/.doc/Mods/47.md)
 ## 0.1
 ### GAME
 添加了基础mod
@@ -144,3 +144,13 @@ minimap 可以显示玩家的icon tab则可以显示玩家的名称
 添加并且配置了功能mod
 ### 仓库
 更新了readme.md 不再更新腾讯文档立..
+## 0.45-0.47
+### 仓库
+发现MCBBS整合包无法自动更新.jpg  
+重新导出为MCBBS整合包 修复了无法导入的问题
+## 0.48
+### 仓库
+整理了下仓库 这说明0.47及以前的版本自动更新将失效  
+可以手动将https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main后面添加/modpark  
+改后是https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark  
+理论gitee同理
