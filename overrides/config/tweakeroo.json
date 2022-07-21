@@ -113,7 +113,7 @@
       "keys": ""
     },
     "flexibleBlockPlacementOffset": {
-      "keys": "LEFT_CONTROL"
+      "keys": "LEFT_ALT"
     },
     "flexibleBlockPlacementRotation": {
       "keys": ""
@@ -213,7 +213,7 @@
     }
   },
   "Internal": {
-    "flySpeedPreset": 2,
+    "flySpeedPreset": 0,
     "gammaValueOriginal": 0.5,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
@@ -853,7 +853,7 @@
       "keys": ""
     },
     "tweakFreeCamera": {
-      "keys": ""
+      "keys": "C"
     },
     "tweakGammaOverride": {
       "keys": ""

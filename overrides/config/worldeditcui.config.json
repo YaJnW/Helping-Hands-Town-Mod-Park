@@ -1,6 +1,6 @@
 {
   "debugMode": false,
-  "ignoreUpdates": false,
+  "ignoreUpdates": true,
   "promiscuous": false,
   "clearAllOnKey": false,
   "cuboidGridColor": {
