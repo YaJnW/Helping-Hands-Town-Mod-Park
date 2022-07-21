@@ -17,7 +17,7 @@ fullscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:true
-darkMojangStudiosBackground:true
+darkMojangStudiosBackground:false
 hideLightningFlashes:true
 mouseSensitivity:0.5
 fov:0.125
@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:false
-resourcePacks:["vanilla","Fabric Mods","file/[1.17]Xaeros世界地图\u0026amp;小地图汉化210826.zip","file/大补.zip","file/瞄准修改","file/[1.18.1]MASA全家桶汉化包","file/XeKr 原版红显16_19plus2.4.zip","continuity/default","continuity/glass_pane_culling_fix","file/XianBeiLanguageV1.14.514.zip"]
-incompatibleResourcePacks:["file/[1.17]Xaeros世界地图\u0026amp;小地图汉化210826.zip","file/XeKr 原版红显16_19plus2.4.zip","file/XianBeiLanguageV1.14.514.zip"]
+resourcePacks:["vanilla","Fabric Mods"]
+incompatibleResourcePacks:[]
 lastServer:mc.yapzhenyie.com
 lang:zh_cn
 soundDevice:
@@ -82,7 +82,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.p
+key_key.sprint:key.keyboard.left.control
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -114,6 +114,7 @@ key_key.worldeditcui.clear:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
 key_key.autofish.open_gui:key.keyboard.v
+key_key.bakadanmaku.config:key.keyboard.b
 key_key.entity-outliner.selector:key.keyboard.semicolon
 key_key.entity-outliner.outline:key.keyboard.o
 key_fpsreducer.key.openGui:key.keyboard.unknown
@@ -125,6 +126,7 @@ key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_inventorytabs.key.next_tab:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_presencefootsteps.settings.key:key.keyboard.f10
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -153,15 +155,15 @@ key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-soundCategory_master:0.43156734
+soundCategory_master:1.0
 soundCategory_music:0.0
-soundCategory_record:0.5
-soundCategory_weather:1.0
-soundCategory_block:1.0
-soundCategory_hostile:1.0
-soundCategory_neutral:1.0
-soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_record:0.70187795
+soundCategory_weather:0.20892018
+soundCategory_block:0.6032864
+soundCategory_hostile:0.35915494
+soundCategory_neutral:0.30751175
+soundCategory_player:0.40610328
+soundCategory_ambient:0.20892018
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
@@ -170,4 +172,3 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
-fullscreenResolution:1920x1080@60:24
