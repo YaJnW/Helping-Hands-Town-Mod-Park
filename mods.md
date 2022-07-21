@@ -1,4 +1,4 @@
-#MOD 列表
+# MOD 列表
 ## 因为错误 而禁用
 (! 错误 导致启动失败)[视觉-补丁] xearo地图 扩展 xaero-map-addition 未知支持版本 0.2.2.jar.disabled
 (! 错误 无法打开设置界面)[辅助] JEI物品管理器 jei 1.18.2 10.1.0.223.jar.disabled
