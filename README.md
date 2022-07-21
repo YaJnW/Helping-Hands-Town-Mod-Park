@@ -27,6 +27,10 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 3. 启动游戏
 4. enjoy
 
+# [!] 特别版本错误
+### 因为[功能] 脚步声修改 PresenceFootsteps 未知支持版本 1.5.1.jar在导出时/上传服务器时 配置文件删除而导致
+### 该问题将影响特别针对该mod的配置失效 请用户自行配置
+
 # 快捷键
 ! 未特别标注的Ctrl/Alt/Shift快捷键默认为左Ctrl/左Alt/左Shift
 
