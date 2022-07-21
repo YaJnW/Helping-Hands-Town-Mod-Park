@@ -1,9 +1,9 @@
 {
   "name": "Helping Hands Town Client ( GitHub )",
   "author": "YaJn",
-  "version": "4.7",
+  "version": "0.48",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main",
+  "fileApi": "https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark",
   "files": [
     {
       "path": "config/appleskin.json5",
