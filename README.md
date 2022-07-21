@@ -14,11 +14,13 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 
 #### 可用的
 
-经过测试 以下启动器可以使用该整合包
-
+#可以导入
 HMCL
 PCL
 BakaXL
+
+#可以自动更新
+HMCL
 
 #### 使用说明
 
