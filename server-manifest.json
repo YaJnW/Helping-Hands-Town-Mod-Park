@@ -1,8 +1,8 @@
 {
-  "name": "Helping Hands Town Client",
+  "name": "Helping Hands Town Client ( GitHub )",
   "author": "YaJn",
-  "version": "0.4",
-  "description": "#Helping Hands Town Client By YaJn\n\n#版本0.4 \n#####请注意:该版本仍在测试阶段 出现问题请提交Issues到GitHub/Gitee\n\n#报告问题\n\nTroubleshooting any problem without the error log is like driving with your eyes closed.\n在没有错误日志的情况下诊断任何问题无异于闭眼开车\n-- Apache 官方文档 Getting Start 篇章\n\n\n点击 [HERE](https://github.com/YaJnW/Helping-Hands-Town-Mod-Park) 前往GitHub\n点击 [HERE](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark) 前往Gitee\n\n#更新源\n[!]客户端将强制进行更新\nGitee/GitHub : \n\n#其他\n#####Gitee:\nhttps://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/raw/main\nhttps://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark\n\n#####GitHub:\nhttps://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main\nhttps://github.com/YaJnW/Helping-Hands-Town-Mod-Park\t",
+  "version": "4.7",
+  "description": "",
   "fileApi": "https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main",
   "files": [
     {
@@ -28,14 +28,6 @@
     {
       "path": "config/blur.json",
       "hash": "ddc38928b1a0b8262a44570f7ad26923e4722b0f"
-    },
-    {
-      "path": "config/carpettisaddition/yarn-1.18.2+build.3-v2.tiny",
-      "hash": "65864292f0b2d5f2aee2f02adeec2e0763a6b868"
-    },
-    {
-      "path": "config/carpettisaddition/yarn_version.json",
-      "hash": "2474dc91aabd64dec7ea9270de0414caa8e71638"
     },
     {
       "path": "config/chat_heads.json5",
@@ -70,10 +62,6 @@
       "hash": "6d3c95db9f782ea14768555ba154fcc2b016b0b5"
     },
     {
-      "path": "config/fabric/indigo-renderer.properties",
-      "hash": "8b75d632f717bffc4ea6ba05b4856822a3b037c3"
-    },
-    {
       "path": "config/fast-chest.properties",
       "hash": "cc7e1f40629694bef3608c21b3c673f145bf9327"
     },
@@ -91,7 +79,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "a7a4688c9ef55278198bc805a506a06aeb547ed7"
+      "hash": "1d7106bc98d9498cf626b9a5d44e3c4d4b1b78be"
     },
     {
       "path": "config/inventoryhud.json",
@@ -103,55 +91,15 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "6029b3337853ed795fb7c0f36545315bfd423100"
+      "hash": "fe2b225a5553f8b16398302100387791163876e3"
     },
     {
       "path": "config/itemscroller.json",
       "hash": "74eead431043a4973b597164e70b4b7f490ec307"
     },
     {
-      "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "fe4871fe64936d7b7d999340a17f25df6b4c567b"
-    },
-    {
-      "path": "config/jei/ingredient-list-type-sort-order.ini",
-      "hash": "a2d1f22ee9a3aa27f3d25bb93c4c5d5cd5580e21"
-    },
-    {
       "path": "config/jei/jei-client.ini",
       "hash": "00af3e4ed1777c1f259b1db6a7bbc0cb2c039c39"
-    },
-    {
-      "path": "config/jei/recipe-category-sort-order.ini",
-      "hash": "7f92cdf8c2af2b0376dfc5d29d794f8e78a99a7f"
-    },
-    {
-      "path": "config/jei/world/server/Helping_Hands_Town_Server_8118b429/bookmarks.ini",
-      "hash": "5c16b90f581cef63d615e3b02566ca2b6363e225"
-    },
-    {
-      "path": "config/litematica/litematica_main.helphand.world.json",
-      "hash": "90c3c206fb5da2bccdd6705ff069f244786f8951"
-    },
-    {
-      "path": "config/litematica/litematica_main.helphand.world_dim_minecraft_overworld.json",
-      "hash": "3b50f2c8c56a1ad654246817701ae3ba66ea35d4"
-    },
-    {
-      "path": "config/litematica/litematica_main.helphand.world_dim_minecraft_the_nether.json",
-      "hash": "34b94d86535118df7a98534de478e3fd0fffd22b"
-    },
-    {
-      "path": "config/litematica/litematica_w.hypixel.net.json",
-      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
-    },
-    {
-      "path": "config/litematica/litematica_w.hypixel.net_dim_minecraft_overworld.json",
-      "hash": "dd95b1b956473a336407bf5be2ad6aa11233bc48"
-    },
-    {
-      "path": "config/litematica/litematica_w.hypixel.net_dim_minecraft_the_nether.json",
-      "hash": "dd95b1b956473a336407bf5be2ad6aa11233bc48"
     },
     {
       "path": "config/litematica.json",
@@ -182,30 +130,6 @@
       "hash": "ecdbc89b3bd29fbb7b67ffee54a65d48ebfda19a"
     },
     {
-      "path": "config/minihud/main.helphand.world.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/main.helphand.world_dim_minecraft_overworld.json",
-      "hash": "6feb9058277e7fc8d9f15ff22c7d419b85200b42"
-    },
-    {
-      "path": "config/minihud/main.helphand.world_dim_minecraft_the_nether.json",
-      "hash": "6feb9058277e7fc8d9f15ff22c7d419b85200b42"
-    },
-    {
-      "path": "config/minihud/w.hypixel.net.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/w.hypixel.net_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/w.hypixel.net_dim_minecraft_the_nether.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
       "path": "config/minihud.json",
       "hash": "bc5c30225266ded87a3f8ebcc7034e0466d88c98"
     },
@@ -227,15 +151,11 @@
     },
     {
       "path": "config/presencefootsteps/userconfig.json",
-      "hash": "d1a37ffb70c4bb2a41a937820bf68ef1347554c1"
+      "hash": "7374f4d555ec3cd117755e46e4edc0510d2b8ace"
     },
     {
       "path": "config/replaymod.json",
       "hash": "abdfe9202e38aaae09e2cc39be294a267c49b498"
-    },
-    {
-      "path": "config/roughlyenoughitems/changelog.txt",
-      "hash": "9c77b91cbc27142f1f21fab41dc32d22898cb479"
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
@@ -311,7 +231,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "95fce1df4f41f5e4536fad3688a36ec9d04e0f72"
+      "hash": "f453a3cebfe002308245852f0b93deaa628ef016"
     },
     {
       "path": "config/xaeropatreon.txt",
