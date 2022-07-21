@@ -103,10 +103,12 @@ xqysp 寻找bug
 - [ ] Tweak My Client
 ### 修复爆红
 - [ ] Better Advancements
+- [ ] Xaeros_Minimap
 
 
 # 更新日志
-你可以前往[,ClientLog]()查看启动日志
+你可以前往[.ClientLog](/.ClientLog)查看启动日志  
+查看mod列表? 请前往[mods](/mods.md)
 ## 0.1
 ### GAME
 添加了基础mod
