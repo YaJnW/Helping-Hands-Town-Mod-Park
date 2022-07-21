@@ -1,38 +1,41 @@
 
 # Helping Hands Town 服务器整合包
+# 语言选择 /  Language selection
 GitHub : [中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / [English](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.en.md)  
 Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/README.md) / [English](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/README.en.md)
 
 # 介绍
 一个给Helping Hands Town服务器用户的Minecraft整合包  
-适用于没下载1.18.2 又不想花时间/没时间找mod的~~懒人~~群体  
+适用于没下载1.18.2 又不想~~没~~花时间找mod的~~懒人~~群体
 
 # 需求
-装有jdk 17的电脑 ( 点击 [HERE](http://https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 跳转到甲骨文网站 )  
-可以导入服务器更新整合包的Minecraft启动器 ( 下载链接: [PCL](https://afdian.net/@LTCat) / [HMCL](https://hmcl.huangyuhui.net/) / [BakaXL](https://www.bakaxl.com/) )  
+装有java 17的电脑 (  [甲骨文网站](http://https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)  )  
+可以导入服务器更新标准整合包/MCBBS标准整合包的Minecraft启动器
 # 可用启动器
 
 ### 可以导入:
-HMCL  
-PCL  
-BakaXL  
+[HMCL](https://hmcl.huangyuhui.net/)
+[PCL](https://afdian.net/@LTCat)  
+[BakaXL](https://www.bakaxl.com/)
 
-### 可以自动更新:  
-HMCL  
+### 可以自动更新:
+[HMCL](https://hmcl.huangyuhui.net/)
 
-# 使用教程 
+# 使用教程
 1. 下载发行版本
 2. 安装
 3. 启动游戏
 4. enjoy
 
 # 快捷键
+! 未标注的Ctrl/Alt/Shift快捷键默认为左Ctrl/左Alt/左Shift
+
 | 字母 | 对应功能 | 对应MOD | 注释 |
 |--|--|--|--|
 | U | 简单放置模式 | 投影 | - |
 | O | 开关实体查找 | 高亮实体 | - |
 | B | 重载弹幕机配置文件 | 弹幕机 | - |
-| I | 开关物品栏HUD | 背包HUD | - | 
+| I | 开关物品栏HUD | 背包HUD | - |
 | V | 配置自动钓鱼 | 自动钓鱼 | - |
 
 | 特殊符号 | 对应功能 | 对应MOD | 注释 |
@@ -46,7 +49,7 @@ HMCL
 | Alt+Ctrl | 放置后点击 | 推客入 | - |
 | , | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |
 | ; | 选择需要查找的实体| 高亮实体 | - |
-   
+
 | 功能键 | 对应功能 | MOD | 注释 |
 |--|--|--|--|
 | F2 | 查看其他玩家/自己的背包和潜影盒内物品 | 推客入 | - |
@@ -61,8 +64,80 @@ HMCL
 | kp2 | 飞行预设3 | 推客入 | 速度0.2 |
 | kp0 | 飞行预设4 | 推客入 | 速度0.32 |
 
-
-
+# 反馈问题
+> Troubleshooting any problem without the error log is like driving withyou eyes closed.
+> 在没有错误日志的情况下诊断任何问题无异于闭眼开车
+>
+>-- Apache 官方文档 Getting Started
 
 # 参与贡献
-xqysp 寻找bug  
+xqysp 寻找bug
+
+# 代办
+### 配置mod
+- [ ] 'Slight' GUI
+- [ ] 3d skin Layers
+- [ ] AppleSkin
+- [ ] AutoFish
+- [ ] Better Advancements
+- [ ] BetterF3
+- [ ] Chat Heads
+- [ ] CIT Resewn
+- [ ] Cloth Config
+- [ ] Continuity
+- [ ] Entity Outliner
+- [ ] Inventory Tabs
+- [ ] Item Scroller
+- [ ] Litematica
+- [ ] Magic Lib
+- [ ] MaLi Lib
+- [ ] Midnight Lib
+- [ ] Mini HUB
+- [ ] Not Enought Animations
+- [ ] Smooth Boot
+- [ ] Wavey Capes
+- [ ] World Edit CUI
+### 仍需配置
+- [ ] Roughly Enough Items
+- [ ] Tweak My Client
+### 修复爆红
+- [ ] Better Advancements
+
+
+# 更新日志
+你可以前往[,ClientLog]()查看启动日志
+## 0.1
+### GAME
+添加了基础mod
+禁用了JEI 采用REI
+禁用phosphor 玩家可选择用starlight
+基础配置了mod
+### Luncher
+隐藏PCL很多功能
+添加了PCL的帮助页面(被隐藏起来了)
+### BUG--
+一些粒子效果无法看到
+## 0.2
+### GAME
+投影设置错误修复
+minimap 可以显示玩家的icon tab则可以显示玩家的名称
+主手现在显示在右侧
+现在默认锁定90fps 原本锁60FPS 并且关闭了垂直同步功能
+修复了minecraft:dust不显示的配置错误
+### Luncher
+关闭功能隐藏的"邮箱显示","版本选择","功能","联机"
+隐藏了PCL一些功能
+现在使用预设的"Fabric Loader"版本必须使用正版登录
+## 0.25
+### GAME
+添加了基础mod
+配置了mod
+### Luncher
+不再使用pcl 现在只提供版本核心
+## 0.3-0.35
+只是做了自动更新罢..
+## 0.4
+### GAME
+添加并且配置了功能mod
+### 仓库
+更新了readme.md 不再更新腾讯文档立..
