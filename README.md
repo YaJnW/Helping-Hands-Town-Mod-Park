@@ -109,17 +109,33 @@ xqysp 寻找bug
 # 更新日志
 你可以前往[.ClientLog](/.doc/ClientLog)查看启动日志  
 查看mod列表? 请前往[mods](/.doc/Mods/47.md)
-## 0.1
+## 0.48
+### 仓库
+整理了下仓库 这说明0.47及以前的版本自动更新将失效  
+可以手动将https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main 后面添加 /modpark  
+改后是 https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark  
+理论gitee同理
+
+## 0.45-0.47
+### 仓库
+发现MCBBS整合包无法自动更新.jpg  
+重新导出为MCBBS整合包 修复了无法导入的问题
+
+## 0.4
+### GAME
+添加并且配置了功能mod
+### 仓库
+更新了readme.md 不再更新腾讯文档立..
+
+## 0.25
 ### GAME
 添加了基础mod
-禁用了JEI 采用REI
-禁用phosphor 玩家可选择用starlight
-基础配置了mod
+配置了mod
 ### Launcher
-隐藏PCL很多功能
-添加了PCL的帮助页面(被隐藏起来了)
-### BUG--
-一些粒子效果无法看到
+不再使用pcl 现在只提供版本核心
+## 0.3-0.35
+只是做了自动更新罢..
+
 ## 0.2
 ### GAME
 投影设置错误修复
@@ -131,26 +147,15 @@ minimap 可以显示玩家的icon tab则可以显示玩家的名称
 关闭功能隐藏的"邮箱显示","版本选择","功能","联机"
 隐藏了PCL一些功能
 现在使用预设的"Fabric Loader"版本必须使用正版登录
-## 0.25
+
+## 0.1
 ### GAME
 添加了基础mod
-配置了mod
+禁用了JEI 采用REI
+禁用phosphor 玩家可选择用starlight
+基础配置了mod
 ### Launcher
-不再使用pcl 现在只提供版本核心
-## 0.3-0.35
-只是做了自动更新罢..
-## 0.4
-### GAME
-添加并且配置了功能mod
-### 仓库
-更新了readme.md 不再更新腾讯文档立..
-## 0.45-0.47
-### 仓库
-发现MCBBS整合包无法自动更新.jpg  
-重新导出为MCBBS整合包 修复了无法导入的问题
-## 0.48
-### 仓库
-整理了下仓库 这说明0.47及以前的版本自动更新将失效  
-可以手动将https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main 后面添加 /modpark  
-改后是 https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark  
-理论gitee同理
+隐藏PCL很多功能
+添加了PCL的帮助页面(被隐藏起来了)
+### BUG--
+一些粒子效果无法看到
