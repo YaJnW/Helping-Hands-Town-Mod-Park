@@ -151,6 +151,6 @@ minimap 可以显示玩家的icon tab则可以显示玩家的名称
 ## 0.48
 ### 仓库
 整理了下仓库 这说明0.47及以前的版本自动更新将失效  
-可以手动将https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main后面添加/modpark  
-改后是https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark  
+可以手动将https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main 后面添加 /modpark  
+改后是 https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark  
 理论gitee同理
