@@ -1,5 +1,31 @@
+########## ERROR 分析 ( 1 error )
+[04:50:29] [Render thread/ERROR]: Invalid config
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:901) ~[gson-2.8.9.jar:?]
+	at eu.ha3.presencefootsteps.config.JsonFile.load(JsonFile.java:48) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at eu.ha3.presencefootsteps.config.JsonFile.load(JsonFile.java:38) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at eu.ha3.presencefootsteps.PresenceFootsteps.onInitializeClient(PresenceFootsteps.java:77) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:53) [fabric-loader-0.14.8.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:452) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:197) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:215) ~[gson-2.8.9.jar:?]
+	... 13 more
+
+[功能] 脚步声修改 PresenceFootsteps 未知支持版本 1.5.1.jar 无法找到/无法读取自己的配置文件
+这可能是在导出时/上次至服务器时 不小心将它的配置文件删除而导致
+这将导致了 脚本声的配置文件重新生成 对于该mod的配置失效
+
 ########## 服务器更新整合包 GitHub ( Gitee 不再测试 )
-#### Minecraft LOG / 0 fatals / 0 errors / 30 warns / 176 infos / 0 debugs /
+#### Minecraft LOG / 0 fatals / 1 errors / 30 warns / 176 infos / 0 debugs /
 ## 文件位置 /logs/latest.log
 ## Start!
 [04:49:31] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.8
