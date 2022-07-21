@@ -1,0 +1,628 @@
+########## 服务器更新整合包 GitHub ( Gitee 不再测试 )
+#### Minecraft LOG / 0 fatals / 0 errors / 30 warns / 176 infos / 0 debugs /
+## 文件位置 /logs/latest.log
+## Start!
+[04:49:31] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.8
+[04:49:31] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[04:49:32] [main/INFO]: Loading 138 mods:
+	- advanced_runtime_resource_pack 0.5.7
+	- antighost 1.18.2-fabric0.47.10-1.1.4
+	- appleskin 2.4.0+mc1.18.2
+	- architectury 4.5.76
+	- autofish 0.9.4
+	- bakadanmaku 2.0.1
+	- betteradvancements 0.2.1.132
+	- betterf3 1.2.5
+	- betterpingdisplay 1.1.1
+	- blur 2.4.1
+	- caffeineconfig 1.1.0 via sodium-extra
+	- carpet 1.4.69
+	- carpet-extra 1.4.72
+	- carpet-tis-addition 1.37.0
+	- chat_heads 0.6.0
+	- citresewn 1.1.1+1.18.2
+	- citresewn-defaults 1.1.1+1.18.2 via citresewn
+	- cloth-api 3.2.64
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-client-events-v0 3.2.64 via cloth-api
+	- cloth-common-events-v1 3.2.64 via cloth-api
+	- cloth-config 6.2.62
+	- cloth-datagen-api-v1 3.2.64 via cloth-api
+	- cloth-scissors-api-v1 3.2.64 via cloth-api
+	- cloth-utils-v1 3.2.64 via cloth-api
+	- conditional-mixin 0.3.0 via carpet-tis-addition
+	- continuity 2.0.0+1.18.2
+	- crowdin-translate 1.4+1.18.2 via antighost
+	- dark-loading-screen 1.6.11
+	- dynamicsoundfilters 1.3.0+1.18.2
+	- entityoutliner 1.2.1
+	- explayerenderer 2.1.3
+	- fabric 0.57.0+1.18.2
+	- fabric-api-base 0.4.4+d7c144a860 via fabric
+	- fabric-api-lookup-api-v1 1.6.2+2373a54560 via fabric
+	- fabric-biome-api-v1 8.0.6+651bcc5960 via fabric
+	- fabric-blockrenderlayer-v1 1.1.12+3ac43d9560 via fabric
+	- fabric-command-api-v1 1.1.9+d7c144a860 via fabric
+	- fabric-commands-v0 0.2.8+b4f4f6cd60 via fabric
+	- fabric-containers-v0 0.1.22+d7c144a860 via fabric
+	- fabric-content-registries-v0 3.1.1+c85f2e3860 via fabric
+	- fabric-convention-tags-v1 1.0.1+474e4f7960 via fabric
+	- fabric-crash-report-info-v1 0.2.1+ee261a3e60 via fabric
+	- fabric-data-generation-api-v1 3.0.0+9fcb91d260 via fabric
+	- fabric-dimensions-v1 2.1.20+489d6f8260 via fabric
+	- fabric-entity-events-v1 1.4.8+d7c144a860 via fabric
+	- fabric-events-interaction-v0 0.4.19+d7c144a860 via fabric
+	- fabric-events-lifecycle-v0 0.2.18+d7c144a860 via fabric
+	- fabric-game-rule-api-v1 1.0.13+d7c144a860 via fabric
+	- fabric-item-api-v1 1.5.1+6c4e5d0960 via fabric
+	- fabric-item-groups-v0 0.3.14+91896a4960 via fabric
+	- fabric-key-binding-api-v1 1.0.12+54e5b2ec60 via fabric
+	- fabric-keybindings-v0 0.2.10+b4f4f6cd60 via fabric
+	- fabric-lifecycle-events-v1 2.1.0+cc71601c60 via fabric
+	- fabric-loot-api-v2 1.1.0+1997ad1260 via fabric
+	- fabric-loot-tables-v1 1.1.2+e747827960 via fabric
+	- fabric-mining-level-api-v1 2.1.4+cc71601c60 via fabric
+	- fabric-models-v0 0.3.6+d7c144a860 via fabric
+	- fabric-networking-api-v1 1.0.22+e6b169eb60 via fabric
+	- fabric-networking-v0 0.3.9+b4f4f6cd60 via fabric
+	- fabric-object-builder-api-v1 2.1.3+032c981d60 via fabric
+	- fabric-particles-v1 0.2.12+526dc1ac60 via fabric
+	- fabric-registry-sync-v0 0.9.9+0d9ab37260 via fabric
+	- fabric-renderer-api-v1 0.4.13+d882b91560 via fabric
+	- fabric-renderer-indigo 0.5.2+d005b03a60 via fabric
+	- fabric-renderer-registries-v1 3.2.11+b4f4f6cd60 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.7+d7c144a860 via fabric
+	- fabric-rendering-fluids-v1 2.0.2+54e5b2ec60 via fabric
+	- fabric-rendering-v0 1.1.13+b4f4f6cd60 via fabric
+	- fabric-rendering-v1 1.10.7+54e5b2ec60 via fabric
+	- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660 via fabric
+	- fabric-resource-loader-v0 0.5.2+446e059560 via fabric
+	- fabric-screen-api-v1 1.0.10+d882b91560 via fabric
+	- fabric-screen-handler-api-v1 1.2.1+1f6558e860 via fabric
+	- fabric-textures-v0 1.0.12+3ac43d9560 via fabric
+	- fabric-transfer-api-v1 1.6.3+f4563ac860 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.0+e747827960 via fabric
+	- fabricloader 0.14.8
+	- fastchest 1.2+1.18
+	- firstperson 2.1.0
+	- fpsreducer 1.18.2-2.0
+	- ias 7.2.0
+	- imblocker 1.0.19
+	- indium 1.0.6+mc1.18.2
+	- inventoryhud 3.4.2
+	- inventorytabs 0.7.0-1.18.x
+	- iris 1.2.5
+	- itemscroller 0.16.0
+	- java 17
+	- kirin 1.10.0 via presencefootsteps
+	- lanserverproperties 1.8
+	- lazydfu 0.1.2
+	- litematica 0.11.3
+	- lithium 0.7.10
+	- magiclib 0.5.32
+	- magiclib-1_18_2 0.5.32 via magiclib
+	- malilib 0.12.1
+	- masa_gadget_mod 3.0.0
+	- masa_gadget_mod-1_18_2 3.0.0 via masa_gadget_mod
+	- microdurability 0.3.6+1.17
+	- microdurability-core 0.3.6 via microdurability
+	- midnightlib 0.3.1 via blur
+	- minecraft 1.18.2
+	- minihud 0.22.0
+	- mm 2.1 via slight-gui-modifications
+	- modmenu 3.2.3
+	- morechathistory 1.1.0
+	- multiconnect-api 1.5.10 via pca
+	- notenoughanimations 1.6.0
+	- ommc 0.5
+	- ommc-1_18_2 0.5 via ommc
+	- org_anarres_jcpp 1.4.14 via iris
+	- org_codehaus_groovy_groovy 3.0.8 via slight-gui-modifications
+	- org_codehaus_groovy_groovy-jsr223 3.0.8 via slight-gui-modifications
+	- org_joml_joml 1.10.2 via sodium
+	- org_yaml_snakeyaml 1.30 via carpet-tis-addition
+	- pca 0.2.5
+	- presencefootsteps 1.5.1
+	- reeses-sodium-options 1.4.3+mc1.18.2-build.42
+	- roughlyenoughitems 8.3.510
+	- satin 1.7.0 via blur
+	- skinlayers 1.4.6-mc1.18.2
+	- slight-gui-modifications 2.1.0
+	- smoothboot 1.18.2-1.7.0
+	- sodium 0.4.1+replaymod.rev.23e83a1
+	- sodium-extra 0.4.5+mc1.18.2-build.42
+	- starlight 1.0.2+fabric.89b8d9f
+	- syncmatica 1.18.2-0.3.2
+	- tooltipfix 1.0.4-1.18
+	- tweakermore 3.4.2
+	- tweakeroo 0.13.3
+	- tweakmyclient 3.1.250+59992f8-beta
+	- tweakmyclient-1_18_2 3.1.250+59992f8-beta via tweakmyclient
+	- waveycapes 1.2.0
+	- worldedit 7.2.10+1742f98
+	- worldeditcui 1.18.2+01
+	- xaerominimap 22.12.0
+	- xaeroworldmap 1.26.1
+[04:49:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/.windows/desk/Helping%20Hands%20Town/.minecraft/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[04:49:39] [main/INFO]: Compatibility level set to JAVA_16
+[04:49:39] [main/INFO]: Compatibility level set to JAVA_17
+[04:49:41] [main/INFO]: Loaded configuration file for Lithium: 102 options available, 0 override(s) found
+[04:49:42] [main/WARN]: [Satin] Sodium is present, custom block renders may not work
+[04:49:42] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[04:49:42] [main/INFO]: Loaded configuration file for Sodium Extra: 27 options available, 0 override(s) found
+[04:49:43] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:49:47] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[04:49:48] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[04:49:49] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:49:49] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:49:50] [main/WARN]: Error loading class: net/coderbot/iris/layer/IrisRenderLayerWrapper (java.lang.ClassNotFoundException: net/coderbot/iris/layer/IrisRenderLayerWrapper)
+[04:49:50] [main/WARN]: @Mixin target net.coderbot.iris.layer.IrisRenderLayerWrapper was not found mixins.satin.client.json:iris.IrisRenderLayerWrapperMixin from mod satin
+[04:49:52] [main/INFO]: I used the json to destroy the json
+[04:49:52] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[04:49:53] [main/INFO]: Smooth Boot config initialized
+[04:49:55] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath
+[04:49:57] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[04:49:58] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[04:49:58] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[04:49:58] [main/WARN]: Disabling further attempts to query Paging File.
+[04:50:04] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[04:50:06] [main/WARN]: Method overwrite conflict for getLanguage in worldedit-fabric.mixins.json:MixinServerPlayer from mod worldedit, previously written by carpet.mixins.ServerPlayer_scarpetEventMixin. Skipping method.
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:50:11] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:50:16] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[04:50:17] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:50:20] [Render thread/INFO]: Setting user: YaJn
+[04:50:20] [Render thread/INFO]: BetterPingDisplay mod loaded
+[04:50:20] [Render thread/WARN]: @Redirect conflict. Skipping carpet-extra.mixins.json:ServerPlayNetworkHandlerMixin from mod carpet-extra->@Redirect::carpetextra_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1000, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[04:50:20] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[04:50:20] [Render thread/INFO]: [STDOUT]: Loading FirstPerson Mod
+[04:50:20] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on mixins.iris.json:texture.MixinAbstractTexture from mod iris::handler$daa000$iris$afterGenerateId exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[04:50:20] [Render thread/INFO]: [MagicLib for 1.18.2]: Mod initialized - Version: 0.5.32
+[04:50:20] [Render thread/INFO]: Definitely not up to no good
+[04:50:22] [Render thread/INFO]: [REI] Config loaded.
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[04:50:22] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[04:50:22] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[04:50:24] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1e6b5123]
+[04:50:24] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.10+1742f98) is loaded
+[04:50:24] [Render thread/INFO]: Loaded
+[04:50:24] [Render thread/INFO]: [BetterF3] Loading...
+[04:50:25] [Render thread/INFO]: [BetterF3] All done!
+[04:50:26] [TISCM Mapping/INFO]: Downloading yarn mapping from https://maven.fabricmc.net/net/fabricmc/yarn/1.18.2+build.3/yarn-1.18.2+build.3-v2.jar
+[04:50:26] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[04:50:26] [Render thread/INFO]: [citresewn] Registering CIT Types
+[04:50:27] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[04:50:28] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.18.2+build.3-v2.tiny loaded
+[04:50:28] [Render thread/INFO]: [STDOUT]: Inventory HUD + has been initialized!
+[04:50:28] [Render thread/INFO]: InventoryTabs: Attempting to load config...
+[04:50:28] [Render thread/INFO]: InventoryTabs: Config loaded!
+[04:50:29] [Render thread/ERROR]: Invalid config
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:901) ~[gson-2.8.9.jar:?]
+	at eu.ha3.presencefootsteps.config.JsonFile.load(JsonFile.java:48) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at eu.ha3.presencefootsteps.config.JsonFile.load(JsonFile.java:38) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at eu.ha3.presencefootsteps.PresenceFootsteps.onInitializeClient(PresenceFootsteps.java:77) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:53) [fabric-loader-0.14.8.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:452) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:197) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:215) ~[gson-2.8.9.jar:?]
+	... 13 more
+[04:50:29] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[04:50:29] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[04:50:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[04:50:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[04:50:29] [Render thread/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:50:29] [ForkJoinPool.commonPool-worker-1/INFO]: Start Loading of CTS.
+[04:50:29] [Render thread/INFO]: [Tweak My Client for 1.18.2]: Mod initialized - Version: 3.1.250+59992f8-beta (Public Beta)
+[04:50:30] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[04:50:31] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[04:50:33] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[04:50:33] [ForkJoinPool.commonPool-worker-2/WARN]: [Iris Update Check] Unable to download https://github.com/IrisShaders/Iris-Update-Index/releases/download/test/updateIndex.json
+[04:50:34] [ForkJoinPool.commonPool-worker-1/INFO]: Hello From 'Slight' Gui Modifications cts script
+[04:50:35] [Render thread/INFO]: Debug functionality is disabled.
+[04:50:35] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[04:50:35] [Render thread/INFO]: Shaders are disabled
+[04:50:36] [Render thread/INFO]: ARRP register - before vanilla
+[04:50:36] [Render thread/INFO]: ARRP register - after vanilla
+[04:50:38] [Render thread/INFO]: Hardware information:
+[04:50:38] [Render thread/INFO]: CPU: 4x Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+[04:50:38] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1050/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 512.15)
+[04:50:38] [Render thread/INFO]: OS: Windows 10 (10.0)
+[04:50:39] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[04:50:40] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Runtime Resource Pack, AntiGhost, AppleSkin, Autofish, Baka Danmaku Mod, Better Advancements, BetterF3, Better Ping Display, Blur (Fabric), CaffeineConfig, Carpet Mod, Carpet Extra, Carpet TIS Addition, Chat Heads, CIT Resewn, CIT Resewn: Defaults, Cloth Config v6, conditional mixin, Continuity, Dark Loading Screen, Dynamic Sound Filters, Entity Outliner, ExtraPlayerRenderer, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Command API (v1), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FastChest, FirstpersonModel, FPS Reducer, In-Game Account Switcher, IMBlockerFabric, Indium, Inventory HUD +, Inventory Tabs, Iris, Item Scroller, Lan Server Properties, LazyDFU, Litematica, Lithium, MagicLib, MagicLib for 1.18.2, MaLiLib, Masa Gadget, Masa Gadget for 1.18.2, microDurability, microDurability Core, MidnightLib, MiniHUD, Manningham Mills, Mod Menu, MoreChatHistory, MultiConnect API, NotEnoughAnimations, Oh My Minecraft Client, Oh My Minecraft Client for 1.18.2, Plusls carpet addition mod, Presence Footsteps, Reese's Sodium Options, Roughly Enough Items, Satin, 3d Skin Layers, 'Slight' GUI Modifications, Smooth Boot, Sodium, Sodium Extra, Starlight, Syncmatica, ToolTip Fix, TweakerMore, Tweakeroo, Tweak My Client, Tweak My Client for 1.18.2, WaveyCapes, WorldEdit, WorldEditCUI, Xaero's Minimap, Xaero's World Map)
+[04:50:40] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures
+[04:50:40] [Render thread/INFO]: ARRP register - before vanilla
+[04:50:40] [Render thread/INFO]: ARRP register - after vanilla
+[04:50:41] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[04:50:42] [Render thread/INFO]: Player hats successfully loaded!
+[04:50:42] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[04:50:44] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[04:50:44] [Render thread/INFO]: No Optifine!
+[04:50:44] [Render thread/INFO]: [STDOUT]: InvGUI Initialized
+[04:50:44] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[04:50:44] [Render thread/INFO]: New world map region cache hash code: 687554333
+[04:50:44] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[04:50:44] [Render thread/INFO]: No Optifine!
+[04:50:44] [Render thread/INFO]: No Vivecraft!
+[04:50:47] [Render thread/INFO]: 'language' is an unsupported metadata key!
+[04:50:48] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 扬声器 (High Definition Audio Device)
+[04:50:48] [Render thread/INFO]: Sound engine started
+[04:50:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[04:50:50] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[04:50:50] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[04:50:50] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[04:50:50] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[04:50:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[04:50:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[04:50:54] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[04:50:54] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[04:50:54] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[04:50:54] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[04:50:54] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[04:50:54] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[04:50:54] [Render thread/INFO]: Successfully reloaded the world map shaders!
+## Stop!
+[04:51:01] [Render thread/INFO]: Stopping!
+[04:51:01] [Render thread/INFO]: pcaSyncProtocol onDisconnect.
+[04:51:01] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures
+
+#### REI LOG / 0 fatals / 0 errors / 0 warns / 13 infos / 0 debugs /
+## 文件位置 /logs/rei.log
+## Start!
+[04:50:22] [Render thread/INFO] [REI] Config loaded.
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[04:50:22] [Render thread/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[04:50:29] [Render thread/INFO] [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[04:50:29] [Render thread/INFO] [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[04:50:29] [Render thread/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+
+#### REI-ISSUES LOG / 0 fatals / 0 errors / 0 warns / 0 infos / 0 debugs /
+## 文件位置 /logs/rei-issues.log
+## Start!
+无
+
+########## MCBBS 格式整合包
+#### MINECRAFT LOG / 0 fatals / 1 errors / 33 warns / 252 infos / 0 debugs /
+## 文件位置 /logs/latest.log
+## Start!
+[04:54:53] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.8
+[04:54:53] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[04:54:56] [main/INFO]: Loading 138 mods:
+	- advanced_runtime_resource_pack 0.5.7
+	- antighost 1.18.2-fabric0.47.10-1.1.4
+	- appleskin 2.4.0+mc1.18.2
+	- architectury 4.5.76
+	- autofish 0.9.4
+	- bakadanmaku 2.0.1
+	- betteradvancements 0.2.1.132
+	- betterf3 1.2.5
+	- betterpingdisplay 1.1.1
+	- blur 2.4.1
+	- caffeineconfig 1.1.0 via sodium-extra
+	- carpet 1.4.69
+	- carpet-extra 1.4.72
+	- carpet-tis-addition 1.37.0
+	- chat_heads 0.6.0
+	- citresewn 1.1.1+1.18.2
+	- citresewn-defaults 1.1.1+1.18.2 via citresewn
+	- cloth-api 3.2.64
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-client-events-v0 3.2.64 via cloth-api
+	- cloth-common-events-v1 3.2.64 via cloth-api
+	- cloth-config 6.2.62
+	- cloth-datagen-api-v1 3.2.64 via cloth-api
+	- cloth-scissors-api-v1 3.2.64 via cloth-api
+	- cloth-utils-v1 3.2.64 via cloth-api
+	- conditional-mixin 0.3.0 via carpet-tis-addition
+	- continuity 2.0.0+1.18.2
+	- crowdin-translate 1.4+1.18.2 via antighost
+	- dark-loading-screen 1.6.11
+	- dynamicsoundfilters 1.3.0+1.18.2
+	- entityoutliner 1.2.1
+	- explayerenderer 2.1.3
+	- fabric 0.57.0+1.18.2
+	- fabric-api-base 0.4.4+d7c144a860 via fabric
+	- fabric-api-lookup-api-v1 1.6.2+2373a54560 via fabric
+	- fabric-biome-api-v1 8.0.6+651bcc5960 via fabric
+	- fabric-blockrenderlayer-v1 1.1.12+3ac43d9560 via fabric
+	- fabric-command-api-v1 1.1.9+d7c144a860 via fabric
+	- fabric-commands-v0 0.2.8+b4f4f6cd60 via fabric
+	- fabric-containers-v0 0.1.22+d7c144a860 via fabric
+	- fabric-content-registries-v0 3.1.1+c85f2e3860 via fabric
+	- fabric-convention-tags-v1 1.0.1+474e4f7960 via fabric
+	- fabric-crash-report-info-v1 0.2.1+ee261a3e60 via fabric
+	- fabric-data-generation-api-v1 3.0.0+9fcb91d260 via fabric
+	- fabric-dimensions-v1 2.1.20+489d6f8260 via fabric
+	- fabric-entity-events-v1 1.4.8+d7c144a860 via fabric
+	- fabric-events-interaction-v0 0.4.19+d7c144a860 via fabric
+	- fabric-events-lifecycle-v0 0.2.18+d7c144a860 via fabric
+	- fabric-game-rule-api-v1 1.0.13+d7c144a860 via fabric
+	- fabric-item-api-v1 1.5.1+6c4e5d0960 via fabric
+	- fabric-item-groups-v0 0.3.14+91896a4960 via fabric
+	- fabric-key-binding-api-v1 1.0.12+54e5b2ec60 via fabric
+	- fabric-keybindings-v0 0.2.10+b4f4f6cd60 via fabric
+	- fabric-lifecycle-events-v1 2.1.0+cc71601c60 via fabric
+	- fabric-loot-api-v2 1.1.0+1997ad1260 via fabric
+	- fabric-loot-tables-v1 1.1.2+e747827960 via fabric
+	- fabric-mining-level-api-v1 2.1.4+cc71601c60 via fabric
+	- fabric-models-v0 0.3.6+d7c144a860 via fabric
+	- fabric-networking-api-v1 1.0.22+e6b169eb60 via fabric
+	- fabric-networking-v0 0.3.9+b4f4f6cd60 via fabric
+	- fabric-object-builder-api-v1 2.1.3+032c981d60 via fabric
+	- fabric-particles-v1 0.2.12+526dc1ac60 via fabric
+	- fabric-registry-sync-v0 0.9.9+0d9ab37260 via fabric
+	- fabric-renderer-api-v1 0.4.13+d882b91560 via fabric
+	- fabric-renderer-indigo 0.5.2+d005b03a60 via fabric
+	- fabric-renderer-registries-v1 3.2.11+b4f4f6cd60 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.7+d7c144a860 via fabric
+	- fabric-rendering-fluids-v1 2.0.2+54e5b2ec60 via fabric
+	- fabric-rendering-v0 1.1.13+b4f4f6cd60 via fabric
+	- fabric-rendering-v1 1.10.7+54e5b2ec60 via fabric
+	- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660 via fabric
+	- fabric-resource-loader-v0 0.5.2+446e059560 via fabric
+	- fabric-screen-api-v1 1.0.10+d882b91560 via fabric
+	- fabric-screen-handler-api-v1 1.2.1+1f6558e860 via fabric
+	- fabric-textures-v0 1.0.12+3ac43d9560 via fabric
+	- fabric-transfer-api-v1 1.6.3+f4563ac860 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.0+e747827960 via fabric
+	- fabricloader 0.14.8
+	- fastchest 1.2+1.18
+	- firstperson 2.1.0
+	- fpsreducer 1.18.2-2.0
+	- ias 7.2.0
+	- imblocker 1.0.19
+	- indium 1.0.6+mc1.18.2
+	- inventoryhud 3.4.2
+	- inventorytabs 0.7.0-1.18.x
+	- iris 1.2.5
+	- itemscroller 0.16.0
+	- java 17
+	- kirin 1.10.0 via presencefootsteps
+	- lanserverproperties 1.8
+	- lazydfu 0.1.2
+	- litematica 0.11.3
+	- lithium 0.7.10
+	- magiclib 0.5.32
+	- magiclib-1_18_2 0.5.32 via magiclib
+	- malilib 0.12.1
+	- masa_gadget_mod 3.0.0
+	- masa_gadget_mod-1_18_2 3.0.0 via masa_gadget_mod
+	- microdurability 0.3.6+1.17
+	- microdurability-core 0.3.6 via microdurability
+	- midnightlib 0.3.1 via blur
+	- minecraft 1.18.2
+	- minihud 0.22.0
+	- mm 2.1 via slight-gui-modifications
+	- modmenu 3.2.3
+	- morechathistory 1.1.0
+	- multiconnect-api 1.5.10 via pca
+	- notenoughanimations 1.6.0
+	- ommc 0.5
+	- ommc-1_18_2 0.5 via ommc
+	- org_anarres_jcpp 1.4.14 via iris
+	- org_codehaus_groovy_groovy 3.0.8 via slight-gui-modifications
+	- org_codehaus_groovy_groovy-jsr223 3.0.8 via slight-gui-modifications
+	- org_joml_joml 1.10.2 via sodium
+	- org_yaml_snakeyaml 1.30 via carpet-tis-addition
+	- pca 0.2.5
+	- presencefootsteps 1.5.1
+	- reeses-sodium-options 1.4.3+mc1.18.2-build.42
+	- roughlyenoughitems 8.3.510
+	- satin 1.7.0 via blur
+	- skinlayers 1.4.6-mc1.18.2
+	- slight-gui-modifications 2.1.0
+	- smoothboot 1.18.2-1.7.0
+	- sodium 0.4.1+replaymod.rev.23e83a1
+	- sodium-extra 0.4.5+mc1.18.2-build.42
+	- starlight 1.0.2+fabric.89b8d9f
+	- syncmatica 1.18.2-0.3.2
+	- tooltipfix 1.0.4-1.18
+	- tweakermore 3.4.2
+	- tweakeroo 0.13.3
+	- tweakmyclient 3.1.250+59992f8-beta
+	- tweakmyclient-1_18_2 3.1.250+59992f8-beta via tweakmyclient
+	- waveycapes 1.2.0
+	- worldedit 7.2.10+1742f98
+	- worldeditcui 1.18.2+01
+	- xaerominimap 22.12.0
+	- xaeroworldmap 1.26.1
+[04:54:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/.windows/desk/Helping%20Hands%20Town/.minecraft/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[04:55:02] [main/INFO]: Compatibility level set to JAVA_16
+[04:55:02] [main/INFO]: Compatibility level set to JAVA_17
+[04:55:04] [main/INFO]: Loaded configuration file for Lithium: 102 options available, 0 override(s) found
+[04:55:05] [main/WARN]: [Satin] Sodium is present, custom block renders may not work
+[04:55:05] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[04:55:05] [main/INFO]: Loaded configuration file for Sodium Extra: 27 options available, 0 override(s) found
+[04:55:07] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:55:09] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[04:55:10] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[04:55:10] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:55:10] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:55:11] [main/WARN]: Error loading class: net/coderbot/iris/layer/IrisRenderLayerWrapper (java.lang.ClassNotFoundException: net/coderbot/iris/layer/IrisRenderLayerWrapper)
+[04:55:11] [main/WARN]: @Mixin target net.coderbot.iris.layer.IrisRenderLayerWrapper was not found mixins.satin.client.json:iris.IrisRenderLayerWrapperMixin from mod satin
+[04:55:11] [main/INFO]: I used the json to destroy the json
+[04:55:11] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[04:55:12] [main/INFO]: Smooth Boot config initialized
+[04:55:13] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath
+[04:55:14] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[04:55:15] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[04:55:15] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[04:55:15] [main/WARN]: Disabling further attempts to query Paging File.
+[04:55:16] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[04:55:17] [main/WARN]: Method overwrite conflict for getLanguage in worldedit-fabric.mixins.json:MixinServerPlayer from mod worldedit, previously written by carpet.mixins.ServerPlayer_scarpetEventMixin. Skipping method.
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:55:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[04:55:27] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[04:55:28] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:55:30] [Render thread/INFO]: Setting user: YaJn
+[04:55:31] [Render thread/INFO]: BetterPingDisplay mod loaded
+[04:55:31] [Render thread/WARN]: @Redirect conflict. Skipping carpet-extra.mixins.json:ServerPlayNetworkHandlerMixin from mod carpet-extra->@Redirect::carpetextra_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1000, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[04:55:31] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[04:55:31] [Render thread/INFO]: [STDOUT]: Loading FirstPerson Mod
+[04:55:31] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on mixins.iris.json:texture.MixinAbstractTexture from mod iris::handler$daa000$iris$afterGenerateId exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[04:55:32] [Render thread/INFO]: [MagicLib for 1.18.2]: Mod initialized - Version: 0.5.32
+[04:55:32] [Render thread/INFO]: Definitely not up to no good
+[04:55:33] [Render thread/INFO]: [REI] Config loaded.
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[04:55:33] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[04:55:33] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[04:55:35] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2fc39b89]
+[04:55:35] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.10+1742f98) is loaded
+[04:55:35] [Render thread/INFO]: Loaded
+[04:55:35] [Render thread/INFO]: [BetterF3] Loading...
+[04:55:35] [Render thread/INFO]: [BetterF3] All done!
+[04:55:37] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[04:55:37] [Render thread/INFO]: [citresewn] Registering CIT Types
+[04:55:37] [TISCM Mapping/INFO]: Downloading yarn mapping from https://maven.fabricmc.net/net/fabricmc/yarn/1.18.2+build.3/yarn-1.18.2+build.3-v2.jar
+[04:55:38] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[04:55:39] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.18.2+build.3-v2.tiny loaded
+[04:55:40] [Render thread/INFO]: [STDOUT]: Inventory HUD + has been initialized!
+[04:55:40] [Render thread/INFO]: InventoryTabs: Attempting to load config...
+[04:55:40] [Render thread/INFO]: InventoryTabs: Config loaded!
+[04:55:41] [Render thread/ERROR]: Invalid config
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:901) ~[gson-2.8.9.jar:?]
+	at eu.ha3.presencefootsteps.config.JsonFile.load(JsonFile.java:48) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at eu.ha3.presencefootsteps.config.JsonFile.load(JsonFile.java:38) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at eu.ha3.presencefootsteps.PresenceFootsteps.onInitializeClient(PresenceFootsteps.java:77) ~[%5B功能%5D%20脚步声修改%20PresenceFootsteps%20未知支持版本%201.5.1.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:53) [fabric-loader-0.14.8.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:452) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:197) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:215) ~[gson-2.8.9.jar:?]
+	... 13 more
+[04:55:41] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[04:55:41] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[04:55:41] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[04:55:41] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[04:55:41] [Render thread/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[04:55:41] [ForkJoinPool.commonPool-worker-1/INFO]: Start Loading of CTS.
+[04:55:41] [Render thread/INFO]: [Tweak My Client for 1.18.2]: Mod initialized - Version: 3.1.250+59992f8-beta (Public Beta)
+[04:55:41] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[04:55:43] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[04:55:44] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[04:55:45] [ForkJoinPool.commonPool-worker-2/WARN]: [Iris Update Check] Unable to download https://github.com/IrisShaders/Iris-Update-Index/releases/download/test/updateIndex.json
+[04:55:46] [ForkJoinPool.commonPool-worker-1/INFO]: Hello From 'Slight' Gui Modifications cts script
+[04:55:47] [Render thread/INFO]: Debug functionality is disabled.
+[04:55:47] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[04:55:47] [Render thread/INFO]: Shaders are disabled
+[04:55:48] [Render thread/INFO]: ARRP register - before vanilla
+[04:55:48] [Render thread/INFO]: ARRP register - after vanilla
+[04:55:50] [Render thread/INFO]: Hardware information:
+[04:55:50] [Render thread/INFO]: CPU: 4x Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+[04:55:50] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1050/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 512.15)
+[04:55:50] [Render thread/INFO]: OS: Windows 10 (10.0)
+[04:55:52] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[04:55:53] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Runtime Resource Pack, AntiGhost, AppleSkin, Autofish, Baka Danmaku Mod, Better Advancements, BetterF3, Better Ping Display, Blur (Fabric), CaffeineConfig, Carpet Mod, Carpet Extra, Carpet TIS Addition, Chat Heads, CIT Resewn, CIT Resewn: Defaults, Cloth Config v6, conditional mixin, Continuity, Dark Loading Screen, Dynamic Sound Filters, Entity Outliner, ExtraPlayerRenderer, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Command API (v1), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FastChest, FirstpersonModel, FPS Reducer, In-Game Account Switcher, IMBlockerFabric, Indium, Inventory HUD +, Inventory Tabs, Iris, Item Scroller, Lan Server Properties, LazyDFU, Litematica, Lithium, MagicLib, MagicLib for 1.18.2, MaLiLib, Masa Gadget, Masa Gadget for 1.18.2, microDurability, microDurability Core, MidnightLib, MiniHUD, Manningham Mills, Mod Menu, MoreChatHistory, MultiConnect API, NotEnoughAnimations, Oh My Minecraft Client, Oh My Minecraft Client for 1.18.2, Plusls carpet addition mod, Presence Footsteps, Reese's Sodium Options, Roughly Enough Items, Satin, 3d Skin Layers, 'Slight' GUI Modifications, Smooth Boot, Sodium, Sodium Extra, Starlight, Syncmatica, ToolTip Fix, TweakerMore, Tweakeroo, Tweak My Client, Tweak My Client for 1.18.2, WaveyCapes, WorldEdit, WorldEditCUI, Xaero's Minimap, Xaero's World Map)
+[04:55:53] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures
+[04:55:53] [Render thread/INFO]: ARRP register - before vanilla
+[04:55:53] [Render thread/INFO]: ARRP register - after vanilla
+[04:55:53] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[04:55:55] [Render thread/INFO]: Player hats successfully loaded!
+[04:55:55] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[04:55:57] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[04:55:57] [Render thread/INFO]: No Optifine!
+[04:55:57] [Render thread/INFO]: [STDOUT]: InvGUI Initialized
+[04:55:57] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[04:55:57] [Render thread/INFO]: New world map region cache hash code: 687554333
+[04:55:57] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[04:55:57] [Render thread/INFO]: No Optifine!
+[04:55:57] [Render thread/INFO]: No Vivecraft!
+[04:56:01] [Render thread/INFO]: 'language' is an unsupported metadata key!
+[04:56:01] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 扬声器 (High Definition Audio Device)
+[04:56:01] [Render thread/INFO]: Sound engine started
+[04:56:02] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[04:56:02] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[04:56:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[04:56:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[04:56:02] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[04:56:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[04:56:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[04:56:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[04:56:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[04:56:05] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[04:56:05] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[04:56:05] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[04:56:05] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[04:56:05] [Render thread/INFO]: Successfully reloaded the world map shaders!
+## Stop!
+[04:56:10] [Render thread/INFO]: Stopping!
+[04:56:10] [Render thread/INFO]: pcaSyncProtocol onDisconnect.
+[04:56:10] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures
+
+#### REI LOG / 0 fatals / 0 errors / 0 warns / 13 infos / 0 debugs /
+## 文件位置 /logs/rei.log
+## Start!
+[04:55:33] [Render thread/INFO] [REI] Config loaded.
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[04:55:33] [Render thread/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[04:55:41] [Render thread/INFO] [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[04:55:41] [Render thread/INFO] [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[04:55:41] [Render thread/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+
+
+#### REI-ISSUES LOG / 0 fatals / 0 errors / 0 warns / 0 infos / 0 debugs /
+## 文件位置 /logs/rei-issues.log
+## Start!
+无
