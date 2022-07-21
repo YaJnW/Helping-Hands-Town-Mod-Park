@@ -14,7 +14,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 
 #### 可用的
 
-#可以导入
+可以导入:
 
 HMCL
 
@@ -22,7 +22,8 @@ PCL
 
 BakaXL
 
-#可以自动更新
+
+可以自动更新:
 
 HMCL
 
