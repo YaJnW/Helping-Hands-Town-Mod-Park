@@ -1,11 +1,11 @@
 # MOD 列表
 ## 因为错误 而禁用
-(! 错误 导致启动失败)[视觉-补丁] xearo地图 扩展 xaero-map-addition 未知支持版本 0.2.2.jar.disabled
-(! 错误 无法打开设置界面)[辅助] JEI物品管理器 jei 1.18.2 10.1.0.223.jar.disabled
+(! 错误 导致启动失败)[视觉-补丁] xearo地图 扩展 xaero-map-addition 未知支持版本 0.2.2.jar.disabled  
+(! 错误 无法打开设置界面)[辅助] JEI物品管理器 jei 1.18.2 10.1.0.223.jar.disabled  
 ## 因为冲突 而禁用
-[优化] 磷-更原版的光照优化 phosphor 1.18.x 0.8.1.jar.disabled
-(! 已经有replay mod 兼容版本)[优化] 钠 sodium 1.18.2 0.4.1+build15.jar.disabled
-(! 已经有replay mod 兼容版本)[功能] 回放 replaymod 1.18.2 2.6.6.jar.disabled
+[优化] 磷-更原版的光照优化 phosphor 1.18.x 0.8.1.jar.disabled  
+(! 已经有replay mod 兼容版本)[优化] 钠 sodium 1.18.2 0.4.1+build15.jar.disabled  
+(! 已经有replay mod 兼容版本)[功能] 回放 replaymod 1.18.2 2.6.6.jar.disabled  
 ## 启用状态
 [优化] FPS减速器 FpsReducer2 1.18.2 2.0.jar  
 [优化] 平滑启动 smoothboot 1.18.2 1.7.0.jar  
