@@ -74,7 +74,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 > 
 > -- Apache 官方文档 Getting Started   
 
-[GitHub](https://github.com/YaJnW/Helping-Hands-Town-Mod-Park/issues) / [Gitee](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/issues)
+[GitHub](https://github.com/YaJnW/Helping-Hands-Town-Mod-Park/issues) / [Gitee](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/issues) / [QQ](https://jq.qq.com/?_wv=1027&k=nsTjR3AN) / [KOOK](https://kaihei.co/24DMbz)
 # 参与贡献
 xqysp 寻找bug
 
