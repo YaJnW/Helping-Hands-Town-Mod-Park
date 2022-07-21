@@ -1,5 +1,5 @@
 
-# Helping Hands Town 服务器整合包
+# Helping Hands Town 客户端整合包
 ### 语言选择 /  Language selection 
 GitHub : [中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / [English](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/.doc/readme/en.md)  
 Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/README.md) / [English](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/blob/main/.doc/readme/en.md)
