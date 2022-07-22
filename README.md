@@ -33,10 +33,6 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 2. 打包并且重命名为你喜欢的名称
 3. 现在将打包后的压缩文件作为服务器更新标准整合包安装即可
 
-# [!] 0.48版本错误
-### 因为[功能] 脚步声修改 PresenceFootsteps 未知支持版本 1.5.1.jar在导出时/上传服务器时 配置文件意外删除而导致
-### 该问题将影响特别针对该mod的配置失效 请用户自行配置
-
 # 快捷键
 ! 未特别标注的Ctrl/Alt/Shift快捷键默认为左Ctrl/左Alt/左Shift
 
