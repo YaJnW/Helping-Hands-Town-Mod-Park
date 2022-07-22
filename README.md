@@ -13,15 +13,16 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 可以导入服务器更新标准整合包/MCBBS标准整合包的Minecraft启动器
 # 可用启动器
 
-### 可以导入:
+### 可以导入
 [HMCL](https://hmcl.huangyuhui.net/)  
 [PCL](https://afdian.net/@LTCat)  
 [BakaXL](https://www.bakaxl.com/)
 
-### 可以自动更新:
+### 可以自动更新
 [HMCL](https://hmcl.huangyuhui.net/)
 
 # 使用教程
+## 使用发行版本
 1. 下载发行版本
 2. 安装
 3. 启动游戏
