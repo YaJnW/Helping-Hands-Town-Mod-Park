@@ -112,7 +112,7 @@ xqysp find bug
 __[!] Chinese only and Slow update__  
 
 go to [.ClientLog](/.doc/ClientLog) to read start log  
-Read mod list ? Click [HRER](/.doc/Mods/47.md)
+Read mod list ? Click [HRER](/.doc/Mods/47/...modlist.md)
 ## 0.48
 ### GitHub
 整理了下仓库 这说明0.47及以前的版本自动更新将失效  

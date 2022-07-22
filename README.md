@@ -6,27 +6,32 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 
 # 介绍
 一个给Helping Hands Town服务器用户的Minecraft整合包  
-适用于没下载1.18.2 又不想花~~没~~时间找mod的~~懒人~~群体
+适用于没下载 1.18.2 又不想花~~没~~时间找mod的~~懒人~~群体  
+[!] 该整合包并不是服务器整合包 将此整合包应用至服务器完全是错误行为 因此造成数据丢失 作者并不负责
 
 # 需求
-装有java 17的电脑 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html))  
+java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html))  
 可以导入服务器更新标准整合包/MCBBS标准整合包的Minecraft启动器
-# 可用启动器
-
+# 测试可用启动器
 ### 可以导入
 [HMCL](https://hmcl.huangyuhui.net/)  
 [PCL](https://afdian.net/@LTCat)  
 [BakaXL](https://www.bakaxl.com/)
+
 
 ### 可以自动更新
 [HMCL](https://hmcl.huangyuhui.net/)
 
 # 使用教程
 ## 使用发行版本
-1. 下载发行版本
-2. 安装
-3. 启动游戏
-4. enjoy
+1. 根据需求下载发行版本
+2. 将下载到的zip作为整合包安装
+3. 补全文件 并且 启动你的游戏
+4. Enjoy the game XD
+## 制作服务器更新标准整合包并且安装
+1. 下载modpark中 "overrides" 及 "server-manifest"
+2. 打包并且重命名为你喜欢的名称
+3. 现在将打包后的压缩文件作为服务器更新标准整合包安装即可
 
 # [!] 0.48版本错误
 ### 因为[功能] 脚步声修改 PresenceFootsteps 未知支持版本 1.5.1.jar在导出时/上传服务器时 配置文件意外删除而导致
@@ -35,6 +40,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 # 快捷键
 ! 未特别标注的Ctrl/Alt/Shift快捷键默认为左Ctrl/左Alt/左Shift
 
+## 字母
 | 字母 | 对应功能 | 对应MOD | 注释 |
 |--|--|--|--|
 | U | 简单放置模式 | 投影 | - |
@@ -43,6 +49,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 | I | 开关物品栏HUD | 背包HUD | - |
 | V | 配置自动钓鱼 | 自动钓鱼 | - |
 
+## 特殊符号
 | 特殊符号 | 对应功能 | 对应MOD | 注释 |
 |--|--|--|--|
 | enter | 执行键 | 投影 | - |
@@ -55,10 +62,12 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 | , | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |
 | ; | 选择需要查找的实体| 高亮实体 | - |
 
+## 功能按键
 | 功能键 | 对应功能 | MOD | 注释 |
 |--|--|--|--|
 | F2 | 查看其他玩家/自己的背包和潜影盒内物品 | 推客入 | - |
 
+## 数字/小键盘按键
 | 数字/小键盘 | 对应功能 | MOD | 注释 |
 |--|--|--|--|
 | kp7 | 背包栏顶层切换 | 推客入 | - |
@@ -75,34 +84,16 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 > 
 > -- Apache 官方文档 Getting Started   
 
-[GitHub](https://github.com/YaJnW/Helping-Hands-Town-Mod-Park/issues) / [Gitee](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/issues) / [QQ](https://jq.qq.com/?_wv=1027&k=nsTjR3AN) / [KOOK](https://kaihei.co/24DMbz)
+现有反馈渠道 :
+[GitHub](https://github.com/YaJnW/Helping-Hands-Town-Mod-Park/issues) / 
+[Gitee](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPark/issues) / 
+[QQ](https://jq.qq.com/?_wv=1027&k=nsTjR3AN) / 
+[KOOK](https://kaihei.co/24DMbz)
+
 # 参与贡献
 xqysp 寻找bug
 
 # 代办
-### 配置mod
-- [ ] 'Slight' GUI
-- [ ] 3d skin Layers
-- [ ] AppleSkin
-- [ ] AutoFish
-- [ ] Better Advancements
-- [ ] BetterF3
-- [ ] Chat Heads
-- [ ] CIT Resewn
-- [ ] Cloth Config
-- [ ] Continuity
-- [ ] Entity Outliner
-- [ ] Inventory Tabs
-- [ ] Item Scroller
-- [ ] Litematica
-- [ ] Magic Lib
-- [ ] MaLi Lib
-- [ ] Midnight Lib
-- [ ] Mini HUB
-- [ ] Not Enought Animations
-- [ ] Smooth Boot
-- [ ] Wavey Capes
-- [ ] World Edit CUI
 ### 仍需配置
 - [ ] Roughly Enough Items
 - [ ] Tweak My Client
@@ -113,7 +104,32 @@ xqysp 寻找bug
 
 # 更新日志
 你可以前往[.ClientLog](/.doc/ClientLog)查看启动日志  
-查看mod列表? 请前往[mods](/.doc/Mods/47.md)
+查看mod列表? 请前往[mods](/.doc/Mods/47/...modlist.md)
+## 0.50
+下面的mod都已配置完成
+ - Mini HUB
+ - Not Enought Animations
+ - 'Slight' GUI
+ - 3d skin Layers
+ - AppleSkin
+ - AutoFish
+ - Better Advancements
+ - BetterF3
+ - Litematica
+ - Magic Lib
+ - Midnight Lib
+ - Wavey Capes
+
+ 无需配置的mod:
+- Chat Heads
+- CIT Resewn
+- Continuity
+- Entity Outliner
+- Smooth Boot
+- Wavey Capes
+
+之后的版本将附带mod列表 适用于已经有1.18.2客户端的用户
+为了减少工作量 现在log只测试一次
 ## 0.48
 ### 仓库
 整理了下仓库 这说明0.47及以前的版本自动更新将失效  
