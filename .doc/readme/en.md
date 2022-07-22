@@ -15,12 +15,12 @@ Computer with java 17 ([ Oracle ](http://https://www.oracle.com/java/technologie
 Minecraft launcher that can import server update standard integration packs / MCBBS standard integration packs
 # Available starters
 
-### Can be imported:
+### Can be imported
 [HMCL](https://hmcl.huangyuhui.net/)
 [PCL](https://afdian.net/@LTCat)  
 [BakaXL](https://www.bakaxl.com/)
 
-### Can be updated automatically:
+### Can be updated automatically
 [HMCL](https://hmcl.huangyuhui.net/)
 
 # Tutorials
