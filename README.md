@@ -7,7 +7,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 # 介绍
 一个给Helping Hands Town服务器用户的Minecraft整合包  
 适用于没下载 1.18.2 又不想花~~没~~时间找mod的~~懒人~~群体  
-[!] 该整合包并不是服务器整合包 将此整合包应用至服务器完全是错误行为 因此造成数据丢失 作者并不负责
+[!] 该整合包是客户端整合包 并不是服务端整合包 将此整合包应用至服务器完全是错误行为 因此造成数据丢失 作者并不负责
 
 # 需求
 java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html))  
@@ -90,6 +90,8 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 xqysp 寻找bug
 
 # 代办
+### 仓库
+- [ ] 完善快捷键
 ### 仍需配置
 - [ ] Roughly Enough Items
 - [ ] Tweak My Client
@@ -100,7 +102,7 @@ xqysp 寻找bug
 
 # 更新日志
 你可以前往[.ClientLog](/.doc/ClientLog)查看启动日志  
-查看mod列表? 请前往[mods](/.doc/Mods/47/...modlist.md)
+查看mod列表? 请前往[mods](/.doc/Mods)
 ## 0.50
 下面的mod都已配置完成
  - Mini HUB
