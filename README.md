@@ -75,7 +75,7 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 | kp0 | 飞行预设4 | 推客入 | 速度0.32 |
 
 # 反馈问题
-> Troubleshooting any problem without the error log is like driving without eyes closed.  
+> Troubleshooting any problem without the error log is like driving with eyes closed.  
 > 在没有错误日志的情况下诊断任何问题无异于闭眼开车
 > 
 > -- Apache 官方文档 Getting Started   
