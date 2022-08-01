@@ -1,7 +1,7 @@
 {
-  "name": "Helping Hands Town Client Server(GitHub)",
+  "name": "Helping Hands Town Client ( GitHub )",
   "author": "YaJn",
-  "version": "0.5",
+  "version": "0.6",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/YaJnW/Helping-Hands-Town-Mod-Park/main/modpark",
   "files": [
@@ -15,11 +15,11 @@
     },
     {
       "path": "config/betteradvancements.json",
-      "hash": "fd8c11a63f868a6df9b2c0489e08faefc785a47f"
+      "hash": "a7b724402535c19877bfd5b2d9e47953a25672b5"
     },
     {
       "path": "config/betterf3.json",
-      "hash": "1545e55f2873f718560a6706db90b29a2da0224a"
+      "hash": "21ef48069a187d8f23b1898ffe733ddfa12330c4"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -28,6 +28,10 @@
     {
       "path": "config/blur.json",
       "hash": "ddc38928b1a0b8262a44570f7ad26923e4722b0f"
+    },
+    {
+      "path": "config/carpet/default_carpet.conf",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
       "path": "config/carpettisaddition/yarn-1.18.2+build.3-v2.tiny",
@@ -79,15 +83,15 @@
     },
     {
       "path": "config/fpsreducer.json",
-      "hash": "664624be804d95dbf6589c9fac142a40f0637ccf"
+      "hash": "b0e3741a344338e668b19dca15ace0fad121cf80"
     },
     {
       "path": "config/ias.json",
-      "hash": "dfa9650f72d09b1062666ec2726cbc5e1f762922"
+      "hash": "e4504cb9b01c0a9c6ebe7301137b847d09a97ff8"
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "8fc11a294ed179f2c1a9da4389d9c170d87fd52e"
+      "hash": "41a7bafcabdc50c4aae8b23488fff8c8a7080c7d"
     },
     {
       "path": "config/inventoryhud.json",
@@ -99,7 +103,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "14b324f01c7d76ab21b4d2ee1be19e43e1c23619"
+      "hash": "1589914b4b4d322ac56569af1a6e5c61667c4901"
     },
     {
       "path": "config/itemscroller.json",
@@ -139,7 +143,7 @@
     },
     {
       "path": "config/minihud.json",
-      "hash": "0797e0923f92fec02e4f4240dcc341f4eb25ef92"
+      "hash": "cfb59603818899d6c6aa88562b561a51dde01e5f"
     },
     {
       "path": "config/modmenu.json",
@@ -151,7 +155,7 @@
     },
     {
       "path": "config/ommc.json",
-      "hash": "eaaac2ea6bf8a1f2fe0574cffcbc81ca1fa40441"
+      "hash": "7bfa2e1c82d03ce87afc6877e565d74d0e0279c4"
     },
     {
       "path": "config/presencefootsteps/updater.json",
@@ -163,7 +167,11 @@
     },
     {
       "path": "config/replaymod.json",
-      "hash": "abdfe9202e38aaae09e2cc39be294a267c49b498"
+      "hash": "2be4ad9acd9fd7c1b407205e072fcb7257ddbc5c"
+    },
+    {
+      "path": "config/roughlyenoughitems/changelog.txt",
+      "hash": "9c77b91cbc27142f1f21fab41dc32d22898cb479"
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
@@ -215,11 +223,11 @@
     },
     {
       "path": "config/tweakermore.json",
-      "hash": "b35cbb517e1f0dd2b220860f5254b0e29eae2acf"
+      "hash": "14aa67973e79bb9c5780888a998937bcf8ea03f3"
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "f31f79b6fa25e56cd6b1caca6d743929a0efb371"
+      "hash": "dc600cd8bb63a129fa3c8ce7ec5ed60a0fd9a8cb"
     },
     {
       "path": "config/tweakmyclient.json",
@@ -230,12 +238,16 @@
       "hash": "e31e1ddcb2220089200f340117fbf0c6dab00e05"
     },
     {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "2a3a5c7e60b1be09449c70fd0b4d8ef9709b4cd9"
+    },
+    {
       "path": "config/worldeditcui.config.json",
       "hash": "4537bff8f11d3dc012c754d6cdf3badfcf61f34e"
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "0b95194667139a8ef820716b35ed04a6bbb2ad4d"
+      "hash": "818558d981b57f37771008c126783088d54c00e1"
     },
     {
       "path": "config/xaerominimap_entities.json",
@@ -247,15 +259,303 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "23f14a97624ffe1f10c1df2db465c4ca0829a617"
+      "hash": "a6d0de7f8b5e7a138e680fb629cbff1a81d1bc9d"
     },
     {
-      "path": "mods[模组].lnk",
-      "hash": "3b42f293e54f61649cccb5f3db550c31c4eb86e7"
+      "path": "config/xaero_map_addition.json",
+      "hash": "0c98f8f491040eb36979f07187ea6b4525f7f316"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "30f3e0eed87eb22ff00de6fc365a345512c18a12"
+    },
+    {
+      "path": "mods/[优化] FPS减速器 FpsReducer2 1.18.2 2.0.jar",
+      "hash": "e7ed98962704099acc129695e7cfd2fd0ce1407e"
+    },
+    {
+      "path": "mods/[优化] 平滑启动 smoothboot 1.18.2 1.7.0.jar",
+      "hash": "3ca71bca131120dcea2b6edf4d71773f0e1f820b"
+    },
+    {
+      "path": "mods/[优化] 快速启动 lazydfu 未知支持版本 0.1.2.jar",
+      "hash": "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+    },
+    {
+      "path": "mods/[优化] 快速箱子渲染 fast-chest 1.18 1.2.jar",
+      "hash": "92655599396787d5ea4c4e66a4ea2f5779584abc"
+    },
+    {
+      "path": "mods/[优化] 星光-更好的光照优化 starlight 未知支持版本 1.0.2.89b8d9f.jar",
+      "hash": "a436b72ee514bd2b59900159bcc4d461f96ef340"
+    },
+    {
+      "path": "mods/[优化] 磷-更原版的光照优化 phosphor 1.18.x 0.8.1.jar.disabled",
+      "hash": "9b826d21b9cd999853a57c76b0c47ee4d9161dc9"
+    },
+    {
+      "path": "mods/[优化] 钠 sodium 1.18.2 0.4.1+build15.jar",
+      "hash": "f839863a6be7014b8d80058ea1f361521148d049"
+    },
+    {
+      "path": "mods/[优化] 钠 · 扩展 sodium-extra 1.18.2 0.4.5+build42.jar",
+      "hash": "79b569df32a953362b9006de60a84c857692e364"
+    },
+    {
+      "path": "mods/[优化] 铟 indium 1.18.2 1.0.6.jar",
+      "hash": "057cdacd2d538c01594c5b4c140f452f5fac6ab2"
+    },
+    {
+      "path": "mods/[优化] 锂 lithium 1.18.2 0.7.10.jar",
+      "hash": "d5c19c3d4edb4228652adcc8abb94f9bd80a634c"
+    },
+    {
+      "path": "mods/[前置] architectury 未知支持版本 4.5.76.jar",
+      "hash": "103831783a28ea578a9bd30657d225f507a7ea40"
+    },
+    {
+      "path": "mods/[前置] cloth-api 未知支持版本 3.2.64.jar",
+      "hash": "930885b24438bb8c179a9e78e5188bb52e1e2416"
+    },
+    {
+      "path": "mods/[前置] cloth-config 未知支持版本 6.2.62.jar",
+      "hash": "bc0f07805823fdab5c7376d8d2b314c1b109d402"
+    },
+    {
+      "path": "mods/[前置] fabric-api 1.18.2 0.57.0.jar",
+      "hash": "2b655ba701fe8b0f25b1dad246db01e9664dbf49"
+    },
+    {
+      "path": "mods/[前置] magiclib 未知支持版本 0.5.32.jar",
+      "hash": "4909188befa3496ddd6015c0978cdf32f8164f11"
+    },
+    {
+      "path": "mods/[前置] malilib 1.18.2 0.12.1.jar",
+      "hash": "a810cf1f28751ac2681ab94a1f00b58c49884649"
+    },
+    {
+      "path": "mods/[前置] 高级运行时资源包 arrp 未知支持版本 0.5.7.jar",
+      "hash": "cbbfd0b52bba7049a4d40cfa0206c734937a697a"
+    },
+    {
+      "path": "mods/[功能] BiliBili直播弹幕 bakadanmaku 1.18.2 2.0.1.jar.disabled",
+      "hash": "1b95ca05c5c3e5359f3c4fa828aea5d610c7eeaf"
+    },
+    {
+      "path": "mods/[功能] 动态声音(回声) DynamicSoundFilters 1.18.2 1.3.0.jar.disabled",
+      "hash": "ca519bf829b8c0749f0f251ead3a2ae4103053c2"
+    },
+    {
+      "path": "mods/[功能] 回放 replaymod 1.18.2 2.6.6.jar",
+      "hash": "367950cc51434d3f70ea83241106c24db446ad57"
+    },
+    {
+      "path": "mods/[功能] 回放 replaymod-compatible 1.18.2 0.4.1.jar.disabled",
+      "hash": "0951e1c41eb42bf851b4477fca6cf587d359dceb"
+    },
+    {
+      "path": "mods/[功能] 脚步声修改 PresenceFootsteps 未知支持版本 1.5.1.jar.disabled",
+      "hash": "cb2d3e9ec90597df161f90fb5c12bce47f99fce5"
+    },
+    {
+      "path": "mods/[功能] 输入法优化 imblockerfabric 未知支持版本 1.0.19.jar.disabled",
+      "hash": "0d57173d69efe8eb441e538a2a85241705887c9a"
+    },
+    {
+      "path": "mods/[显示-辅助] 更好的F3 BetterF3 1.18.2 1.2.5.jar",
+      "hash": "457734b8099afbda9218c59aa6f197e2a2cc8d65"
+    },
+    {
+      "path": "mods/[显示-辅助] 模组菜单 modmenu 未知支持版本 3.2.3.jar",
+      "hash": "463fecec40447519a9a32c1c178a962799583add"
+    },
+    {
+      "path": "mods/[显示] 光影 iris 1.18.2 1.2.6.jar",
+      "hash": "11fdf2e0d81a5692bbbe8d6f4c7f686210bd141f"
+    },
+    {
+      "path": "mods/[补丁] Custom_Item_Textures CITResewn 1.18.2 1.1.1.jar",
+      "hash": "43bb55d570be30c4e8d7565689dcf3a481ea59d5"
+    },
+    {
+      "path": "mods/[补丁] Reese的钠视频界面 reeses_sodium_options 1.18.2 1.4.3+build.42.jar",
+      "hash": "c39e06ad0bff8891046d80fb4c63fddfbe2d5bc4"
+    },
+    {
+      "path": "mods/[补丁] 自定义局域网联机 lanserverproperties 未知支持版本 1.8.jar",
+      "hash": "55e7785832b5085f01b3c0d4c1427a50d1e6d384"
+    },
+    {
+      "path": "mods/[视觉-补丁] xearo地图 扩展 xaero-map-addition 未知支持版本 0.2.3.jar",
+      "hash": "4addb9fd147ab079f9c9d747ffda06a4b2b9ab69"
+    },
+    {
+      "path": "mods/[视觉-辅助] 背包HUB InventoryHUD 1.18 3.4.2.jar.disabled",
+      "hash": "86b117c3c6978013468adbeb3f74e98328febda1"
+    },
+    {
+      "path": "mods/[视觉] 3D皮肤层 3dskinlayers 1.18.2 1.4.6.jar",
+      "hash": "01b007e3885623d70bd9dd1de32b8ecc5424cda8"
+    },
+    {
+      "path": "mods/[视觉] 信息提示修复(防止物品信息过长而跑出屏幕) tooltipfix 1.18 1.0.4.jar",
+      "hash": "16b844c45ce0e4f1159ff51739479e8747a64d84"
+    },
+    {
+      "path": "mods/[视觉] 更加真实的披风 WaveyCapes-fabric 1.18.x 1.2.0.jar.disabled",
+      "hash": "bea62ca518c8a396bed33b4fdfbc4002478d669a"
+    },
+    {
+      "path": "mods/[视觉] 更多动画 notenoughanimations 1.18.2 1.6.0.jar.disabled",
+      "hash": "ca56eef09d9ab7a2d5586c6996582b6b766dabe4"
+    },
+    {
+      "path": "mods/[视觉] 更好的延迟显示 BetterPingDisplay 1.18.2 1.1.1.jar",
+      "hash": "56ddc966f0d0f2dcdc73480c8e0fb6b6349fde25"
+    },
+    {
+      "path": "mods/[视觉] 更好的进度 BetterAdvancements 1.18.2 0.2.1.132.jar",
+      "hash": "ce60ecd8b72f39ce036a0f725dfd4a9cf6830f6e"
+    },
+    {
+      "path": "mods/[视觉] 更真实的第一人称模型 firstperson 1.18 2.1.0-pre1.jar.disabled",
+      "hash": "447b3fda6f725b6f6a983a1d827a9b1f1b6278ba"
+    },
+    {
+      "path": "mods/[视觉] 界面微调 slight-gui-modifications 未知支持版本 2.1.0.jar",
+      "hash": "2d3c2d6198298fd5368e705802a492ee8dfc43dd"
+    },
+    {
+      "path": "mods/[视觉] 界面背景模糊 blur 未知支持版本 2.4.1.jar.disabled",
+      "hash": "4e9eb6718bf1aae922f7abd6fc93be1db49e5a4c"
+    },
+    {
+      "path": "mods/[视觉] 聊天头像 chat_heads 1.18.1 0.6.0.jar.disabled",
+      "hash": "1eb9384863f5993fe075829f99d7e702b438af16"
+    },
+    {
+      "path": "mods/[视觉] 自定义加载界面 dark-loading-screen 未知支持版本 1.6.11.jar.disabled",
+      "hash": "4f93411b34bc03e6b6af00f70a6f45190aad9ba7"
+    },
+    {
+      "path": "mods/[视觉] 连接材质 continuity 1.18.2 2.0.0.jar",
+      "hash": "55c8fb90c3c3af60a3c3d2dc28aa0a6a1b866c5c"
+    },
+    {
+      "path": "mods/[视觉] 额外玩家渲染 ExtraPlayerRenderer 1.18.2 2.1.3.jar",
+      "hash": "3ebcd0e91a3143487b734d52e50408dc5f718327"
+    },
+    {
+      "path": "mods/[辅助-补丁] Carpet · plusls扩展 plusls-carpet-addition 1.18.2 0.2.5.jar",
+      "hash": "a06968aee21dcd9a9e99ad84268bd7822f43d4d7"
+    },
+    {
+      "path": "mods/[辅助-补丁] Carpet · TIS拓展 carpet-tis-addition 1.18.2 1.37.0.jar",
+      "hash": "69f322f57634d60b3fb79bef5263ea2d1fe0839d"
+    },
+    {
+      "path": "mods/[辅助-补丁] Carpet · 拓展 carpet-extra 1.18.2 1.4.72.jar",
+      "hash": "220d81edfeff213fc811c0b86bb2cbe64187eb66"
+    },
+    {
+      "path": "mods/[辅助-补丁] 推客入 · 扩展 tweakermore 1.18.2 3.4.2.jar",
+      "hash": "c352b0242bba2282e3d887b7488522d1eaf69e55"
+    },
+    {
+      "path": "mods/[辅助] Carpet carpet 1.18.2 1.4.69+220331.jar",
+      "hash": "674c6810bfee5f75d8ce71059dfda015b4729838"
+    },
+    {
+      "path": "mods/[辅助] JEI物品管理器 jei 1.18.2 10.1.0.223.jar.disabled",
+      "hash": "2eea47616da6483d08931ec7a330aabeb86c7c1c"
+    },
+    {
+      "path": "mods/[辅助] OMMC oh-my-minecraft-client 未知支持版本 0.5.jar",
+      "hash": "543886be81d055a7120691708e5b2d38434f61dd"
+    },
+    {
+      "path": "mods/[辅助] REI 物品管理器 RoughlyEnoughItems 未知支持版本 8.3.510.jar.disabled",
+      "hash": "cadab2f21499846cd0465b1a675efdab6d3de351"
+    },
+    {
+      "path": "mods/[辅助] Xaero的世界地图 XaerosWorldMap 1.18.2 1.26.1.jar",
+      "hash": "970707d8afa5ec4184f3326b60cba8a5028888b6"
+    },
+    {
+      "path": "mods/[辅助] Xaero的小地图 Xaeros_Minimap 1.18.2 22.12.0.jar",
+      "hash": "91f68df54bdc6571d164b228f47b852d6c134a98"
+    },
+    {
+      "path": "mods/[辅助] 共享投影 syncmatica 1.18.2 0.3.2.jar",
+      "hash": "c41b31117d1d509d82f0d114218466361553d4bd"
+    },
+    {
+      "path": "mods/[辅助] 创世神 worldedit 未知支持版本 7.2.10.jar",
+      "hash": "40fc7f7a734ccbd53365bc91c1a17fafcec1965d"
+    },
+    {
+      "path": "mods/[辅助] 创世神 · 可视选区 WorldEditCUI 1.18.2 01.jar",
+      "hash": "f554261f9e7d5ac02e487215b5fca9d6b15583a8"
+    },
+    {
+      "path": "mods/[辅助] 投影 litematica 1.18.2 0.11.3.jar",
+      "hash": "df3374fad636a66cda1f1e2d351aa3e50b8ea2ba"
+    },
+    {
+      "path": "mods/[辅助] 推客入 tweakeroo 1.18.2 0.13.3.jar",
+      "hash": "86b73189a898f8618f7534bef7c4e2a0facb160d"
+    },
+    {
+      "path": "mods/[辅助] 方块同步修复 antighost 1.18.2 0.47.10-1.1.4.jar",
+      "hash": "b9a690827fdaa60388bc297d6bf339c7ffd68261"
+    },
+    {
+      "path": "mods/[辅助] 更多聊天记录 MoreChatHistory 1.18 1.1.0.jar",
+      "hash": "378a6a5b02f45feff9d55b28be55d36474fca77f"
+    },
+    {
+      "path": "mods/[辅助] 未知中文名称翻译 MasaGadget 未知支持版本 3.0.0.jar",
+      "hash": "48243aa10318aa349d52ffa4ece5aa4031226e2a"
+    },
+    {
+      "path": "mods/[辅助] 未知中文名称翻译 TweakMyClient 未知支持版本 3.1.250+59992f8-beta.jar",
+      "hash": "c7a9d6ac81720867650a70e9942b5f6c9038f10a"
+    },
+    {
+      "path": "mods/[辅助] 游戏内账号切换 InGameAccountSwitcher 1.18 7.2.0.jar",
+      "hash": "60586aa768ac80a7e85b4757b126d07751d7d6f1"
+    },
+    {
+      "path": "mods/[辅助] 物品栏选项卡 inventorytabs 1.18.x 0.7.0.jar.disabled",
+      "hash": "4de4bd770aff546108c79363763f0d65def6cf64"
+    },
+    {
+      "path": "mods/[辅助] 物品滚轮-鼠标手势 itemscroller 1.18.2 0.16.0.jar",
+      "hash": "0127e415898a4dfe88b3bc758c4e4c3e272c5d7a"
+    },
+    {
+      "path": "mods/[辅助] 自动钓鱼 Autofish 1.18 0.9.4.jar",
+      "hash": "ed4d5b67bb152c03441d5aa6bdd897022b4df4f6"
+    },
+    {
+      "path": "mods/[辅助] 装备迷你耐久显示 microdurability 1.17 0.3.6.jar.disabled",
+      "hash": "a5518981fe2195261d28886d27546fb8da8b8050"
+    },
+    {
+      "path": "mods/[辅助] 迷你HUD minihud 1.18.2 0.22.0.jar",
+      "hash": "dc85e2befc102c9260f6eebeb72317043ce6530a"
+    },
+    {
+      "path": "mods/[辅助] 饱和度显示 appleskin 1.18.2 2.4.0.jar",
+      "hash": "07cc0f6d00b184bef9c4390682c098d5ca52e67d"
+    },
+    {
+      "path": "mods/[辅助] 高亮实体 entity-outliner 1.18.2 1.2.1.jar",
+      "hash": "dbf45a3b514a55191a11f9602b33c25b6c6a6c4a"
     },
     {
       "path": "options.txt",
-      "hash": "9d48ff5a9b1401fba7e582862e3829b01778b792"
+      "hash": "cdfe460f89abb367f8cbbc9358fcdbb8dbc212ad"
     }
   ],
   "addons": [

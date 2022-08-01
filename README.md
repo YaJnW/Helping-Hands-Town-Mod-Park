@@ -44,6 +44,7 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 | B | 重载弹幕机配置文件 | 弹幕机 | - |
 | I | 开关物品栏HUD | 背包HUD | - |
 | V | 配置自动钓鱼 | 自动钓鱼 | - |
+| N | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |
 
 ## 特殊符号
 | 特殊符号 | 对应功能 | 对应MOD | 注释 |
@@ -55,7 +56,6 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 | Ctrl | 疾跑 | Minecraft原生 | 可以看为开关强制疾跑键 |
 | Shift | 潜行 | Minecraft原生 | - |
 | Alt+Ctrl | 放置后点击 | 推客入 | - |
-| , | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |
 | ; | 选择需要查找的实体| 高亮实体 | - |
 
 ## 功能按键
@@ -103,6 +103,40 @@ xqysp 寻找bug
 # 更新日志
 你可以前往[.ClientLog](/.doc/ClientLog)查看启动日志  
 查看mod列表? 请前往[mods](/.doc/Mods)
+## 0.60
+继续简化client log  
+
+禁用而非删除了以下mod:
+ - BiliBili弹幕机
+ - 界面模糊
+ - 聊天头像
+ - 自定义加载界面
+ - 动态回声
+ - 更真实的第一人称
+ - 输入法优化
+ - 背包HUD
+ - 物品栏选项卡
+ - 装备mini耐久显示
+ - 更多动画
+ - 脚步声修改
+ - REI 物品管理器
+ - 更真实的披风
+ - Replay+Sodium    
+
+更新了以下mod:
+ - xaero map addition
+ - iris  
+
+启用了以下mod:
+ - xaero map addition
+ - replay
+ - sodium  
+
+重新配置了:  
+ - xaero mini map
+ - better advancements
+ - FPS Reducer
+ - better f3
 ## 0.50
 下面的mod都已配置完成
  - Mini HUB
