@@ -1,4 +1,4 @@
-
+# 该整合包涉嫌含有个人隐私信息 现已删除发行版
 # Helping Hands Town 客户端整合包
 ### 语言选择 /  Language selection 
 GitHub : [中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / [English](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/.doc/readme/en.md)  
