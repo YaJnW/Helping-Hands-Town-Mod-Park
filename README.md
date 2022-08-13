@@ -1,4 +1,3 @@
-# 该整合包涉嫌含有个人隐私信息 现已删除发行版
 # Helping Hands Town 客户端整合包
 ### 语言选择 /  Language selection 
 GitHub : [中文](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/README.md) / [English](https://github.com/YanJun5028/Helping-Hands-Town-Mod-Park/blob/main/.doc/readme/en.md)  
@@ -6,7 +5,7 @@ Gitee : [中文](https://gitee.com/yanjunL/HelpingHandsTownMinecraftServerModPar
 
 # 介绍
 一个给Helping Hands Town服务器用户的Minecraft整合包  
-适用于没下载 1.18.2 又不想花~~没~~时间找mod的~~懒人~~群体  
+适用于没下载 1.18.2 又不想花~~没~~时间找mod的~~懒人~~群体
 [!] 该整合包是客户端整合包 并不是服务端整合包 将此整合包应用至服务器完全是错误行为 因此造成数据丢失 作者并不负责
 
 # 需求
@@ -28,51 +27,137 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 2. 将下载到的zip作为整合包安装
 3. 补全文件 并且 启动你的游戏
 4. Enjoy the game XD
-## 制作服务器更新标准整合包并且安装
-1. 下载modpark中 "overrides" 及 "server-manifest"
-2. 打包并且重命名为你喜欢的名称
-3. 现在将打包后的压缩文件作为服务器更新标准整合包安装即可
+
+# 使用注意
+如果你从未使用并且在短期内不想使用masa全家桶 请禁用以下mod:
+- ItemScroller  
+- Litematica  
+- MagicLib  
+- MasaGadget   
+- MiniHub  
+- Oh My Minecraft Client    
+- TweakerMore  
+- Tweakeroo  
+- TweakMyClient  
+未学习时使用他们将带来比原版更坏的游戏体验 因此在短期内不学习使用请禁用或者删除他们   
 
 # 快捷键
 ! 未特别标注的Ctrl/Alt/Shift快捷键默认为左Ctrl/左Alt/左Shift
 
-## 字母
-| 字母 | 对应功能 | 对应MOD | 注释 |
-|--|--|--|--|
-| U | 简单放置模式 | 投影 | - |
-| O | 开关实体查找 | 高亮实体 | - |
-| B | 重载弹幕机配置文件 | 弹幕机 | - |
-| I | 开关物品栏HUD | 背包HUD | - |
-| V | 配置自动钓鱼 | 自动钓鱼 | - |
-| N | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |
-
-## 特殊符号
-| 特殊符号 | 对应功能 | 对应MOD | 注释 |
-|--|--|--|--|
-| enter | 执行键 | 投影 | - |
-| Tab+X | 开关空中放置功能 | 推客入 | - |
-| Tab+~ | 查看玩家角度 | 推客入 | 用于鞘翅飞行时 |
-| Alt | 方块灵活放置 | 推客入 | - |
-| Ctrl | 疾跑 | Minecraft原生 | 可以看为开关强制疾跑键 |
-| Shift | 潜行 | Minecraft原生 | - |
-| Alt+Ctrl | 放置后点击 | 推客入 | - |
-| ; | 选择需要查找的实体| 高亮实体 | - |
-
-## 功能按键
-| 功能键 | 对应功能 | MOD | 注释 |
-|--|--|--|--|
-| F2 | 查看其他玩家/自己的背包和潜影盒内物品 | 推客入 | - |
-
-## 数字/小键盘按键
-| 数字/小键盘 | 对应功能 | MOD | 注释 |
-|--|--|--|--|
-| kp7 | 背包栏顶层切换 | 推客入 | - |
-| kp4 | 背包中层切换 | 推客入 | - |
-| kp1 | 背包底层切换 | 推客入 | - |
-| kp8 | 飞行预设1 | 推客入 | 速度0.064 |
-| kp5 | 飞行预设2 | 推客入 | 速度0.128 |
-| kp2 | 飞行预设3 | 推客入 | 速度0.2 |
-| kp0 | 飞行预设4 | 推客入 | 速度0.32 |
+### 配置界面  
+| 按键 | 对应功能 | 对应MOD | 注释 |     
+|--|--|--|--|  
+| A + C | malilib配置界面 | malilib | - | 
+| G + C | MasaGadget配置界面 | MasaGadget | - |  
+| O + C | OMMC配置界面 | Oh My Minecraft Client | - |  
+| H + C | MiniHub配置界面 | MiniHub | - |  
+| K + C | TweakerMore配置界面 | TweakerMore | - |    
+| T + C | Tweak My Client配置界面 | Tweak My Client | - |    
+| X + A | Xaero Map Addition配置界面 | Xaero Map Addition | - |      
+### 功能按键  
+| 按键 | 对应功能 | 对应MOD | 注释 |    
+|--|--|--|--|    
+| A | 配方视图 | Item Scroller | 背包/工作台 |    
+| C | 灵魂出窍 | Tweakeroo | - |  
+| D + E | 方块放置间距 | Tweakeroo | - |    
+| H | MiniHub主开关 | MiniHub | - |   
+| H + G | 结构渲染器 | MiniHub | - |  
+| G | 工具武器自动选择开关 | Tweakeroo | - |    
+| R | 整理仓库 | OMMC | - |  
+| I | 方块信息 | Litematica | - | 
+| M | 投影主界面 | Litematica | - |  
+| M + A | 添加投影选区 | Litematica | - |  
+| M + L | 投影材料界面 | Litematica | - |  
+| M + P | 管理原理图放置 | Litematica | - | 
+| M + V | 原理图验证器 | Litematica | - |  
+| M + S | 区域选择管理器 | Litematica | - | 
+| M + C | 配置菜单 | Litematica | - |  
+| M + G | 投影方块渲染 | Litematica | - |  
+| M + T | 工具切换 | Litematica | - |  
+| M + page_UP | 下一渲染模式 | Litematica | - |  
+| M + page_DOWN | 上一渲染模式 | Litematica | - |  
+| M + Button_3(鼠标中间按钮) | 选择方块开关 | Litematica | - | 
+| Z + 1 | 方块放置限制 平面 | Tweakeroo | - |  
+| Z + 2 | 方块放置限制 面朝 | Tweakeroo | - |  
+| Z + 3 | 方块放置限制 直线 | Tweakeroo | - |  
+| Z + 4 | 方块放置限制 陵边 | Tweakeroo | - |  
+| Z + 5 | 方块放置限制 对角边 | Tweakeroo | - |  
+| Z + 6 | 方块放置限制 水平面 | Tweakeroo | - |  
+| Q + Button_1(鼠标左按钮) | 就扔一个 | Item Scroller | - |  
+| S + Button_1(鼠标左按钮) | 就下移一个 | Item Scroller | - |   
+| S + Button_2(鼠标右按钮) | 就移一个S | Item Scroller | - |  
+| U | 简单放置模式 | Litematica | - |
+| W + Button_1(鼠标左按钮) | 就上移一个 | Item Scroller | - |  
+| W + Button_2(鼠标右按钮) | 就剩一个W | Item Scroller | - |  
+| J | 同步方块/背包 | Tweak My Client | - |  
+| J(长按) | 通过大量发包防止幽灵方块 | AntiGhost | - |  
+| P | 清空Pistorder显示 | Pistorder | - |  
+| K | 右下角的开关耐久显示 | Giselbaers Durability Viewer | - |  
+| N | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |  
+| R+C | 额外玩家渲染配置界面 | ExtraPlayerRenderer | - |   
+| I+C | 物品滚轮配置界面 | Item Scroller | - |
+| Tab+X | 开关空中放置功能 | Tweakeroo | - |  
+| Tab+~ | 查看玩家角度 | Tweakeroo | 用于鞘翅飞行时 |  
+| Alt | 方块灵活放置 | Tweakeroo | - |
+| Alt | 创造模式提取方块带方块状态 | TweakerMore | - |  
+| Alt | 移动相同 | Item Scroller | - |
+| Alt | 位移调节器 | Litematica | - |  
+| Alt | 主方块选择 | Litematica | - | 
+| Alt + S + Button_1(鼠标左按钮) | 全部下移 | Item Scroller | - |
+| Alt + W + Button_1(鼠标左按钮) | 全部上移 | Item Scroller | - |   
+| Alt + Shift | 移动所有 | Item Scroller | - |  
+| Alt + Shift + Button_1(鼠标左按钮) | 移动所有 | Item Scroller | - |  
+| Alt + Button_1(鼠标左按钮) | 全部移动 | Item Scroller | - |   
+| Shift | 潜行 | Minecraft | - |  
+| Shift | 移动一份 | Item Scroller | - |  
+| Shift | 交易收藏  | Item Scroller | - |  
+| Shift | 副方块选择 | Litematica | - |  
+| Shift + Q + Button_1(鼠标左按钮) | 扔一份 | Item Scroller | - |  
+| Shift + Q + Button_2(鼠标右按钮) | 丢到剩一个 | Item Scroller | - |  
+| Shift + S + Button_1(鼠标左按钮) | 下移一份 | Item Scroller | - |  
+| Shift + W + Button_1(鼠标左按钮) | 上移一份 | Item Scroller | - |  
+| Shift + Button_1(鼠标左按钮) | 移一份 | Item Scroller | - |  
+| Shift + Button_2(鼠标右按钮) | 就剩一个 | Item Scroller | - |  
+| Alt+Ctrl | 放置后点击 | Tweakeroo | - |  
+| Ctrl | 疾跑 | Minecraft | 可以看为开关强制疾跑键 |
+| Ctrl | 投影模式切换 | Litematica | 仅手持木棍 |
+| Ctrl + Alt | 放置后点击 | Tweakeroo | - | 
+| Ctrl + C | 全部制作 | Item Scroller | - |  
+| Ctrl + Shift + C | 全部丢出 | Item Scroller | - |  
+| Ctrl + L | 工作台放置 | Item Scroller | - |  
+| Ctrl + M | 选区模式选择 | Litematica | - |
+| Ctrl + Alt + C | 全部合成并抛出 | Item Scroller | - |  
+| Ctrl + Alt + S | 将原理图存至文件 | Litematica | - |
+| Ctrl + Alt + Shift + I | 物品滚轮调试栏 | Item Scroller | - |
+| Ctrl + Button_1(鼠标左按钮) | 就移一个 | Item Scroller | - |   
+| 右Ctrl | 原理图透视渲染 | Litematica | - | 
+| Button_1(鼠标左按钮) | 角点1放置 | Litematica | - |  
+| Button_2(鼠标右按钮) | 角点2放置 | Litematica | - |  
+| Button_3(鼠标中间按钮) | 区域选择 | Litematica | - |
+| Button_2(鼠标右按钮) | 简单放置应用 | Litematica | - |  
+| Button_3(鼠标中间按钮) | 储存配方 | Item Scroller | - |  
+| Button_3(鼠标中间按钮) | 选择当前方块 | Litematica | - |  
+| enter | 执行键 | Litematica | - |  
+| ; | 选择需要查找的实体| Entity Outliner | - |
+| F2 | 查看其他玩家/自己的背包和潜影盒内物品 | 推客入 | - |  
+| F3 | MINECRAFT信息 | Minecraft | - |  
+| F3 + M | 重载原理图 | Litematica | - |
+| F5 | 切换视角 | Minecraft | - |  
+| F6 | 寻路更新显示 | MiniHub | - |  
+| F7 | 出生点加载显示 | MiniHub | - |  
+| F8 | 光照等级显示 | MiniHub | - |  
+| F11 | 全屏显示切换 | Minecraft | - |  
+| UP | 下一渲染层 | Litematica | - |  
+| DOWN | 上一渲染层 | Litematica | - |     
+| kp7 | 背包栏顶层切换 | 推客入 | - |  
+| kp4 | 背包中层切换 | 推客入 | - |  
+| kp1 | 背包底层切换 | 推客入 | - |  
+| kp8 | 飞行预设1 | 推客入 | 速度0.064 |  
+| kp5 | 飞行预设2 | 推客入 | 速度0.128 |  
+| kp2 | 飞行预设3 | 推客入 | 速度0.2 |  
+| kp0 | 飞行预设4 | 推客入 | 速度0.32 | 
+| kp_subtract(数字面板"-") | 配置原理图放置 | Litematica | - | 
+| kp_multiply(数字面板"*") | 区域编辑器 | Litematica | - |  
 
 # 反馈问题
 > Troubleshooting any problem without the error log is like driving with eyes closed.  
@@ -92,17 +177,54 @@ xqysp 寻找bug
 # 代办
 ### 仓库
 - [ ] 完善快捷键
-### 仍需配置
-- [ ] Roughly Enough Items
-- [ ] Tweak My Client
-### 修复爆红
-- [ ] Better Advancements
-- [ ] Xaeros_Minimap
-
+### 游戏
+仍需配置:
+- [ ] Bobby
+- [ ] wthit
+修复爆错:
+- [ ] replay
 
 # 更新日志
-你可以前往[.ClientLog](/.doc/ClientLog)查看启动日志  
-查看mod列表? 请前往[mods](/.doc/Mods)
+## 0.70
+### 暂时不发送发行版
+### 仓库
+删除"启动日志","mod列表"  
+英文readme.md因为~~英语不好~~特殊原因而不再更新
+### 游戏
+添加并且配置了以下mod:  
+ - Boat Item View  
+ - Bobby (仍需配置)
+ - Chest Tracker
+ - ClickThrough
+ - Client Commands
+ - Debugify
+ - Enhanced Attack Indicator
+ - EntityCulling  
+ - Where Is It
+ - wthit(仍需配置)  
+仅添加但未配置以下mod:  
+ - Carpet TCTC Addition  
+ - Krypton  
+ - Language Reload  
+ - Language-Loader-Fix  
+ - Memory Leak Fix  
+ - MiniHUD-Injector  
+ - Mod Manager  
+ - More Culling  
+ - More Statistics  
+ - NBT Tooltip  
+ - Not Enough Crashes  
+ - Plusls carpet addition mod  
+ - Shulker Dupe  
+重新配置了以下mod:    
+ - replay(需要修复爆红)  
+禁用而非删除了以下mod:  
+ - In-Game Account Switcher (由Auth ME替代)  
+ - BetterAdvancement (由AdvancementInfo替代)
+ - FPS Reducer (由Dynamic FPS代替)
+ - FastChest (由Enhanced Block Entities代替)  
+添加但是禁用了以下mod:  
+ - AdvancedChat*
 ## 0.60
 继续简化client log  
 
