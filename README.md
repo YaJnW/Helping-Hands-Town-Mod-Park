@@ -29,6 +29,7 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 4. Enjoy the game XD
 
 # 使用注意
+### MASA全家桶
 如果你从未使用并且在短期内不想使用masa全家桶 请禁用以下mod:
 - ItemScroller  
 - Litematica  
@@ -41,123 +42,9 @@ java 17 ([甲骨文网站](http://https://www.oracle.com/java/technologies/javas
 - TweakMyClient  
 未学习时使用他们将带来比原版更坏的游戏体验 因此在短期内不学习使用请禁用或者删除他们   
 
-# 快捷键
-! 未特别标注的Ctrl/Alt/Shift快捷键默认为左Ctrl/左Alt/左Shift
+### 快捷键列表  
+这里! 这里查看[快捷键列表](/.doc/hotkey/link.md)
 
-### 配置界面  
-| 按键 | 对应功能 | 对应MOD | 注释 |     
-|--|--|--|--|  
-| A + C | malilib配置界面 | malilib | - | 
-| G + C | MasaGadget配置界面 | MasaGadget | - |  
-| O + C | OMMC配置界面 | Oh My Minecraft Client | - |  
-| H + C | MiniHub配置界面 | MiniHub | - |  
-| K + C | TweakerMore配置界面 | TweakerMore | - |    
-| T + C | Tweak My Client配置界面 | Tweak My Client | - |    
-| X + A | Xaero Map Addition配置界面 | Xaero Map Addition | - |      
-### 功能按键  
-| 按键 | 对应功能 | 对应MOD | 注释 |    
-|--|--|--|--|    
-| A | 配方视图 | Item Scroller | 背包/工作台 |    
-| C | 灵魂出窍 | Tweakeroo | - |  
-| D + E | 方块放置间距 | Tweakeroo | - |    
-| H | MiniHub主开关 | MiniHub | - |   
-| H + G | 结构渲染器 | MiniHub | - |  
-| G | 工具武器自动选择开关 | Tweakeroo | - |    
-| R | 整理仓库 | OMMC | - |  
-| I | 方块信息 | Litematica | - | 
-| M | 投影主界面 | Litematica | - |  
-| M + A | 添加投影选区 | Litematica | - |  
-| M + L | 投影材料界面 | Litematica | - |  
-| M + P | 管理原理图放置 | Litematica | - | 
-| M + V | 原理图验证器 | Litematica | - |  
-| M + S | 区域选择管理器 | Litematica | - | 
-| M + C | 配置菜单 | Litematica | - |  
-| M + G | 投影方块渲染 | Litematica | - |  
-| M + T | 工具切换 | Litematica | - |  
-| M + page_UP | 下一渲染模式 | Litematica | - |  
-| M + page_DOWN | 上一渲染模式 | Litematica | - |  
-| M + Button_3(鼠标中间按钮) | 选择方块开关 | Litematica | - | 
-| Z + 1 | 方块放置限制 平面 | Tweakeroo | - |  
-| Z + 2 | 方块放置限制 面朝 | Tweakeroo | - |  
-| Z + 3 | 方块放置限制 直线 | Tweakeroo | - |  
-| Z + 4 | 方块放置限制 陵边 | Tweakeroo | - |  
-| Z + 5 | 方块放置限制 对角边 | Tweakeroo | - |  
-| Z + 6 | 方块放置限制 水平面 | Tweakeroo | - |  
-| Q + Button_1(鼠标左按钮) | 就扔一个 | Item Scroller | - |  
-| S + Button_1(鼠标左按钮) | 就下移一个 | Item Scroller | - |   
-| S + Button_2(鼠标右按钮) | 就移一个S | Item Scroller | - |  
-| U | 简单放置模式 | Litematica | - |
-| W + Button_1(鼠标左按钮) | 就上移一个 | Item Scroller | - |  
-| W + Button_2(鼠标右按钮) | 就剩一个W | Item Scroller | - |  
-| J | 同步方块/背包 | Tweak My Client | - |  
-| J(长按) | 通过大量发包防止幽灵方块 | AntiGhost | - |  
-| P | 清空Pistorder显示 | Pistorder | - |  
-| K | 右下角的开关耐久显示 | Giselbaers Durability Viewer | - |  
-| N | 大地图 | XaerosWorldMap | 小地图设置可以在大地图左上角里找到 |  
-| R+C | 额外玩家渲染配置界面 | ExtraPlayerRenderer | - |   
-| I+C | 物品滚轮配置界面 | Item Scroller | - |
-| Tab+X | 开关空中放置功能 | Tweakeroo | - |  
-| Tab+~ | 查看玩家角度 | Tweakeroo | 用于鞘翅飞行时 |  
-| Alt | 方块灵活放置 | Tweakeroo | - |
-| Alt | 创造模式提取方块带方块状态 | TweakerMore | - |  
-| Alt | 移动相同 | Item Scroller | - |
-| Alt | 位移调节器 | Litematica | - |  
-| Alt | 主方块选择 | Litematica | - | 
-| Alt + S + Button_1(鼠标左按钮) | 全部下移 | Item Scroller | - |
-| Alt + W + Button_1(鼠标左按钮) | 全部上移 | Item Scroller | - |   
-| Alt + Shift | 移动所有 | Item Scroller | - |  
-| Alt + Shift + Button_1(鼠标左按钮) | 移动所有 | Item Scroller | - |  
-| Alt + Button_1(鼠标左按钮) | 全部移动 | Item Scroller | - |   
-| Shift | 潜行 | Minecraft | - |  
-| Shift | 移动一份 | Item Scroller | - |  
-| Shift | 交易收藏  | Item Scroller | - |  
-| Shift | 副方块选择 | Litematica | - |  
-| Shift + Q + Button_1(鼠标左按钮) | 扔一份 | Item Scroller | - |  
-| Shift + Q + Button_2(鼠标右按钮) | 丢到剩一个 | Item Scroller | - |  
-| Shift + S + Button_1(鼠标左按钮) | 下移一份 | Item Scroller | - |  
-| Shift + W + Button_1(鼠标左按钮) | 上移一份 | Item Scroller | - |  
-| Shift + Button_1(鼠标左按钮) | 移一份 | Item Scroller | - |  
-| Shift + Button_2(鼠标右按钮) | 就剩一个 | Item Scroller | - |  
-| Alt+Ctrl | 放置后点击 | Tweakeroo | - |  
-| Ctrl | 疾跑 | Minecraft | 可以看为开关强制疾跑键 |
-| Ctrl | 投影模式切换 | Litematica | 仅手持木棍 |
-| Ctrl + Alt | 放置后点击 | Tweakeroo | - | 
-| Ctrl + C | 全部制作 | Item Scroller | - |  
-| Ctrl + Shift + C | 全部丢出 | Item Scroller | - |  
-| Ctrl + L | 工作台放置 | Item Scroller | - |  
-| Ctrl + M | 选区模式选择 | Litematica | - |
-| Ctrl + Alt + C | 全部合成并抛出 | Item Scroller | - |  
-| Ctrl + Alt + S | 将原理图存至文件 | Litematica | - |
-| Ctrl + Alt + Shift + I | 物品滚轮调试栏 | Item Scroller | - |
-| Ctrl + Button_1(鼠标左按钮) | 就移一个 | Item Scroller | - |   
-| 右Ctrl | 原理图透视渲染 | Litematica | - | 
-| Button_1(鼠标左按钮) | 角点1放置 | Litematica | - |  
-| Button_2(鼠标右按钮) | 角点2放置 | Litematica | - |  
-| Button_3(鼠标中间按钮) | 区域选择 | Litematica | - |
-| Button_2(鼠标右按钮) | 简单放置应用 | Litematica | - |  
-| Button_3(鼠标中间按钮) | 储存配方 | Item Scroller | - |  
-| Button_3(鼠标中间按钮) | 选择当前方块 | Litematica | - |  
-| enter | 执行键 | Litematica | - |  
-| ; | 选择需要查找的实体| Entity Outliner | - |
-| F2 | 查看其他玩家/自己的背包和潜影盒内物品 | 推客入 | - |  
-| F3 | MINECRAFT信息 | Minecraft | - |  
-| F3 + M | 重载原理图 | Litematica | - |
-| F5 | 切换视角 | Minecraft | - |  
-| F6 | 寻路更新显示 | MiniHub | - |  
-| F7 | 出生点加载显示 | MiniHub | - |  
-| F8 | 光照等级显示 | MiniHub | - |  
-| F11 | 全屏显示切换 | Minecraft | - |  
-| UP | 下一渲染层 | Litematica | - |  
-| DOWN | 上一渲染层 | Litematica | - |     
-| kp7 | 背包栏顶层切换 | 推客入 | - |  
-| kp4 | 背包中层切换 | 推客入 | - |  
-| kp1 | 背包底层切换 | 推客入 | - |  
-| kp8 | 飞行预设1 | 推客入 | 速度0.064 |  
-| kp5 | 飞行预设2 | 推客入 | 速度0.128 |  
-| kp2 | 飞行预设3 | 推客入 | 速度0.2 |  
-| kp0 | 飞行预设4 | 推客入 | 速度0.32 | 
-| kp_subtract(数字面板"-") | 配置原理图放置 | Litematica | - | 
-| kp_multiply(数字面板"*") | 区域编辑器 | Litematica | - |  
 
 # 反馈问题
 > Troubleshooting any problem without the error log is like driving with eyes closed.  
